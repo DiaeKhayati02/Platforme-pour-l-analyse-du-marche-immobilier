@@ -1,0 +1,1881 @@
+Unnamed: 0,Price,Address,Surface,chambres,toilettes,Surface_per_room,Year_of_Construction,State
+36,2400000,Centre,100,2,1,50,construction neuve,Luxe
+42,1340000,Jirrari,90,2,1,45,moins de 5 ans,normal
+48,2600000,Ahlane,118,3,2,39.33333333,construction neuve,Luxe
+50,2400000,Centre,95,2,1,47.5,construction neuve,Luxe
+51,1700000,Marchane,300,4,2,75,construction neuve,Luxe
+67,2500000,Moujahidine,108,3,2,36,construction neuve,Luxe
+70,3700000,Tanja Balia,101,3,2,33.66666667,construction neuve,Luxe
+77,3500000,Ben Dibane,167,3,2,55.66666667,construction neuve,Luxe
+82,550000,Val Fleuri,70,2,1,35,plus de 5 ans,simple
+102,2800000,Branes 1,116,3,2,38.66666667,construction neuve,Luxe
+107,3300000,Jirrari,134,3,2,44.66666667,construction neuve,Luxe
+109,3600000,Val Fleuri,100,2,1,50,construction neuve,Luxe
+114,2900000,Mghogha,100,2,1,50,construction neuve,Luxe
+121,2770000,Branes 1,90,2,1,45,construction neuve,Luxe
+133,560000,Marchane,108,3,2,36,plus de 5 ans,simple
+137,3400000,Rmilat,148,3,2,49.33333333,construction neuve,Luxe
+142,2100000,Marchane,210,3,2,70,construction neuve,Luxe
+148,850000,Marchane,60,2,1,30,moins de 5 ans,normal
+149,1750000,Charf,172,3,2,57.33333333,construction neuve,Luxe
+150,650000,Casabarata,50,2,1,25,moins de 5 ans,normal
+152,2500000,Centre,130,3,2,43.33333333,construction neuve,Luxe
+160,2200000,Centre,55,2,1,27.5,construction neuve,Luxe
+161,1500000,Centre,200,3,2,66.66666667,construction neuve,Luxe
+163,750000,Mesnana,60,2,1,30,moins de 5 ans,normal
+169,2600000,Ahlane,108,3,2,36,construction neuve,Luxe
+170,3800000,Moujahidine,173,3,2,57.66666667,construction neuve,Luxe
+176,2600000,Ahlane,108,3,2,36,construction neuve,Luxe
+181,1320000,Mesnana,165,3,2,55,moins de 5 ans,normal
+184,3000000,Marchane,180,3,2,60,construction neuve,Luxe
+188,1300000,Centre,99,2,1,49.5,moins de 5 ans,normal
+195,2300000,Jirrari,100,2,1,50,construction neuve,Luxe
+197,2500000,Tanja Balia,100,2,1,50,construction neuve,Luxe
+198,1250000,Marchane,185,3,2,61.66666667,moins de 5 ans,normal
+216,999000,Msala,102,3,2,34,moins de 5 ans,normal
+219,2800000,Mghogha,102,3,2,34,construction neuve,Luxe
+220,1800000,Mghogha,90,2,1,45,construction neuve,Luxe
+229,3500000,Centre,117,3,2,39,construction neuve,Luxe
+233,500000,Branes 1,50,2,1,25,plus de 5 ans,simple
+236,3000000,Marchane,100,2,1,50,construction neuve,Luxe
+238,3800000,Centre,300,4,2,75,construction neuve,Luxe
+244,2900000,Ahlane,140,3,2,46.66666667,construction neuve,Luxe
+253,3700000,Branes 2,144,3,2,48,construction neuve,Luxe
+255,580000,Mghogha,55,2,1,27.5,moins de 5 ans,normal
+256,3100000,Branes 2,110,3,2,36.66666667,construction neuve,Luxe
+259,1500000,Marchane,200,3,2,66.66666667,construction neuve,Luxe
+261,2170000,Tanja Balia,70,2,1,35,construction neuve,Luxe
+282,2250000,Souani,214,3,2,71.33333333,construction neuve,Luxe
+288,700000,Mesnana,50,2,1,25,moins de 5 ans,normal
+289,2450000,Ben Dibane,95,2,1,47.5,construction neuve,Luxe
+290,1400000,Branes 1,90,2,1,45,moins de 5 ans,normal
+293,1000000,Marchane,115,3,2,38.33333333,moins de 5 ans,normal
+304,700000,Marchane,70,2,1,35,moins de 5 ans,normal
+311,2700000,Branes 1,100,2,1,50,construction neuve,Luxe
+313,1650000,M'Nar,150,3,2,50,construction neuve,Luxe
+319,1500000,Achakar,300,4,2,75,construction neuve,Luxe
+327,1300000,Mghogha,70,2,1,35,moins de 5 ans,normal
+329,1400000,Ben Dibane,97,2,1,48.5,moins de 5 ans,normal
+331,1950000,Msala,225,3,2,75,construction neuve,Luxe
+336,900000,Moujahidine,90,2,1,45,moins de 5 ans,normal
+343,1000000,Mghogha,60,2,1,30,moins de 5 ans,normal
+344,1600000,Tanja Balia,50,2,1,25,construction neuve,Luxe
+348,1000000,Msala,80,2,1,40,moins de 5 ans,normal
+349,3100000,Benkirane,120,3,2,40,construction neuve,Luxe
+359,2100000,Centre,100,2,1,50,construction neuve,Luxe
+370,564300,Mesnana,54,2,1,27,plus de 5 ans,simple
+372,1150000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+373,1100000,Mesnana,140,3,2,46.66666667,moins de 5 ans,normal
+374,950000,Branes 1,118,3,2,39.33333333,moins de 5 ans,normal
+375,1280000,Malabata,100,2,1,50,moins de 5 ans,normal
+376,1100000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+377,830000,Val Fleuri,87,2,1,43.5,moins de 5 ans,normal
+378,550000,Mghogha,150,3,2,50,plus de 5 ans,simple
+379,750000,Drissia,79,2,1,39.5,moins de 5 ans,normal
+380,913500,Moujahidine,87,2,1,43.5,moins de 5 ans,normal
+381,1850000,Malabata,116,3,2,38.66666667,construction neuve,Luxe
+382,1125000,Val Fleuri,90,2,1,45,moins de 5 ans,normal
+383,450000,Tanja Balia,57,2,1,28.5,plus de 5 ans,simple
+384,902500,Mesnana,113,3,2,37.66666667,moins de 5 ans,normal
+385,1850000,Moulay Youssef,110,3,2,36.66666667,construction neuve,Luxe
+387,3700000,Mesnana,100,2,1,50,construction neuve,Luxe
+388,970000,Branes 2,200,3,2,66.66666667,moins de 5 ans,normal
+389,420000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+391,1700000,Malabata,90,2,1,45,construction neuve,Luxe
+392,950000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+393,1000000,Malabata,53,2,1,26.5,moins de 5 ans,normal
+394,3200000,Iberie,141,3,2,47,construction neuve,Luxe
+396,2900000,Malabata,200,3,2,66.66666667,construction neuve,Luxe
+397,2400000,Malabata,103,3,2,34.33333333,construction neuve,Luxe
+399,2655000,Iberie,177,3,2,59,construction neuve,Luxe
+400,1950000,Tanja Balia,70,2,1,35,construction neuve,Luxe
+401,710000,Ahlane,64,2,1,32,moins de 5 ans,normal
+402,750000,Mesnana,60,2,1,30,moins de 5 ans,normal
+403,950000,Mesnana,55,2,1,27.5,moins de 5 ans,normal
+404,850000,Drissia,87,2,1,43.5,moins de 5 ans,normal
+405,780000,Mesnana,84,2,1,42,moins de 5 ans,normal
+406,850000,Ben Dibane,200,3,2,66.66666667,moins de 5 ans,normal
+407,400000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+408,1200000,Malabata,87,2,1,43.5,moins de 5 ans,normal
+409,1900000,Malabata,90,2,1,45,construction neuve,Luxe
+410,1278000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+412,450000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+413,620000,Mesnana,150,3,2,50,moins de 5 ans,normal
+414,2160000,Malabata,153,3,2,51,construction neuve,Luxe
+416,400000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+417,972000,Malabata,81,2,1,40.5,moins de 5 ans,normal
+418,860000,Ahlane,87,2,1,43.5,moins de 5 ans,normal
+420,3350000,Branes 2,136,3,2,45.33333333,construction neuve,Luxe
+421,950000,Moujahidine,87,2,1,43.5,moins de 5 ans,normal
+422,1270000,Jirrari,136,3,2,45.33333333,moins de 5 ans,normal
+423,1620000,Jirrari,178,3,2,59.33333333,construction neuve,Luxe
+426,1080000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+427,1440000,Tanja Balia,120,3,2,40,moins de 5 ans,normal
+428,245000,Mghogha,51,2,1,25.5,plus de 5 ans,simple
+429,390000,Achakar,100,2,1,50,plus de 5 ans,simple
+430,330000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+431,870000,Tanja Balia,70,2,1,35,moins de 5 ans,normal
+432,270000,El Mers 2,50,2,1,25,plus de 5 ans,simple
+433,1350000,Benkirane,80,2,1,40,moins de 5 ans,normal
+434,440000,Mesnana,100,2,1,50,plus de 5 ans,simple
+435,1000000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+436,690000,Moujahidine,79,2,1,39.5,moins de 5 ans,normal
+437,1000000,Malabata,54,2,1,27,moins de 5 ans,normal
+438,330000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+439,630000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+441,3200000,Iberie,220,3,2,73.33333333,construction neuve,Luxe
+442,750000,Mesnana,60,2,1,30,moins de 5 ans,normal
+443,1050000,Moulay Youssef,200,3,2,66.66666667,moins de 5 ans,normal
+446,850000,Mesnana,140,3,2,46.66666667,moins de 5 ans,normal
+447,1270000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+448,350000,El Mers 1,123,3,2,41,plus de 5 ans,simple
+449,1950000,Castilla,200,3,2,66.66666667,construction neuve,Luxe
+450,2635000,Iberie,155,3,2,51.66666667,construction neuve,Luxe
+451,510000,Mesnana,150,3,2,50,plus de 5 ans,simple
+452,3900000,Ahlane,120,3,2,40,construction neuve,Luxe
+453,690000,Casabarata,100,2,1,50,moins de 5 ans,normal
+454,460000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+455,570000,Mesnana,150,3,2,50,plus de 5 ans,simple
+456,3185000,Moulay Youssef,245,3,2,81.66666667,construction neuve,Luxe
+457,840000,Drissia,200,3,2,66.66666667,moins de 5 ans,normal
+458,1000000,Tanja Balia,108,3,2,36,moins de 5 ans,normal
+459,520000,Val Fleuri,100,2,1,50,plus de 5 ans,simple
+460,800000,Mesnana,100,2,1,50,moins de 5 ans,normal
+461,555000,El Mers 1,93,2,1,46.5,plus de 5 ans,simple
+462,3500000,Ben Dibane,167,3,2,55.66666667,construction neuve,Luxe
+463,1020000,Malabata,85,2,1,42.5,moins de 5 ans,normal
+464,1212000,Malabata,101,3,2,33.66666667,moins de 5 ans,normal
+465,560000,Castilla,200,3,2,66.66666667,plus de 5 ans,simple
+466,900000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+467,3000000,Malabata,155,3,2,51.66666667,construction neuve,Luxe
+469,3790000,Malabata,300,4,2,75,construction neuve,Luxe
+470,3500000,Castilla,100,2,1,50,construction neuve,Luxe
+471,830000,Val Fleuri,83,2,1,41.5,moins de 5 ans,normal
+472,4000000,Malabata,136,3,2,45.33333333,construction neuve,Luxe
+474,3000000,Ahlane,100,2,1,50,construction neuve,Luxe
+475,970000,Val Fleuri,96,2,1,48,moins de 5 ans,normal
+476,800000,Moujahidine,102,3,2,34,moins de 5 ans,normal
+477,1080000,Malabata,84,2,1,42,moins de 5 ans,normal
+479,510000,El Mers 2,81,2,1,40.5,plus de 5 ans,simple
+480,1050000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+482,300000,Mghogha,64,2,1,32,plus de 5 ans,simple
+483,780000,Tanja Balia,200,3,2,66.66666667,moins de 5 ans,normal
+484,450000,Tanja Balia,150,3,2,50,plus de 5 ans,simple
+485,450000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+486,1020000,Malabata,85,2,1,42.5,moins de 5 ans,normal
+487,1000000,Mesnana,132,3,2,44,moins de 5 ans,normal
+488,1200000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+490,550000,Val Fleuri,200,3,2,66.66666667,plus de 5 ans,simple
+491,750000,Val Fleuri,160,3,2,53.33333333,moins de 5 ans,normal
+494,2600000,Achakar,160,3,2,53.33333333,construction neuve,Luxe
+495,200000,Drissia,100,2,1,50,plus de 5 ans,simple
+496,3800000,Iberie,229,3,2,76.33333333,construction neuve,Luxe
+497,450000,Mesnana,100,2,1,50,plus de 5 ans,simple
+498,585000,Branes 1,65,2,1,32.5,moins de 5 ans,normal
+500,980000,Malabata,82,2,1,41,moins de 5 ans,normal
+501,1300000,Casabarata,150,3,2,50,moins de 5 ans,normal
+502,1200000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+503,980000,Malabata,82,2,1,41,moins de 5 ans,normal
+504,1426000,Malabata,124,3,2,41.33333333,moins de 5 ans,normal
+505,1248000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+506,1391500,Malabata,121,3,2,40.33333333,moins de 5 ans,normal
+507,3500000,Moujahidine,220,3,2,73.33333333,construction neuve,Luxe
+508,270000,Achakar,50,2,1,25,plus de 5 ans,simple
+509,2600000,Iberie,300,4,2,75,construction neuve,Luxe
+511,570000,Tanja Balia,70,2,1,35,plus de 5 ans,simple
+513,900000,Ahlane,90,2,1,45,moins de 5 ans,normal
+516,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+519,984000,Malabata,82,2,1,41,moins de 5 ans,normal
+520,2400000,Moujahidine,161,3,2,53.66666667,construction neuve,Luxe
+522,870000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+524,430000,Mghogha,67,2,1,33.5,plus de 5 ans,simple
+526,600000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+527,750000,Mesnana,75,2,1,37.5,moins de 5 ans,normal
+528,730000,Moujahidine,79,2,1,39.5,moins de 5 ans,normal
+530,943000,Malabata,82,2,1,41,moins de 5 ans,normal
+531,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+532,650000,Tanja Balia,200,3,2,66.66666667,moins de 5 ans,normal
+533,1100000,Tanja Balia,200,3,2,66.66666667,moins de 5 ans,normal
+534,950000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+535,570000,Drissia,51,2,1,25.5,plus de 5 ans,simple
+536,560000,Val Fleuri,200,3,2,66.66666667,plus de 5 ans,simple
+538,450000,Mghogha,70,2,1,35,plus de 5 ans,simple
+539,1600000,Souani,82,2,1,41,construction neuve,Luxe
+540,800000,Moujahidine,150,3,2,50,moins de 5 ans,normal
+542,1000000,Tanja Balia,200,3,2,66.66666667,moins de 5 ans,normal
+543,630000,Moujahidine,100,2,1,50,moins de 5 ans,normal
+545,1207500,Castilla,200,3,2,66.66666667,moins de 5 ans,normal
+546,870000,Mesnana,55,2,1,27.5,moins de 5 ans,normal
+547,360000,Achakar,100,2,1,50,plus de 5 ans,simple
+548,1176000,Malabata,98,2,1,49,moins de 5 ans,normal
+550,2750000,Achakar,155,3,2,51.66666667,construction neuve,Luxe
+551,600000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+552,1450000,El Mers 2,70,2,1,35,moins de 5 ans,normal
+553,1450000,El Mers 2,70,2,1,35,moins de 5 ans,normal
+554,420000,Mghogha,60,2,1,30,plus de 5 ans,simple
+555,1370000,Tanja Balia,92,2,1,46,moins de 5 ans,normal
+556,2800000,Malabata,105,3,2,35,construction neuve,Luxe
+558,210000,Mghogha,51,2,1,25.5,plus de 5 ans,simple
+559,1200000,Casabarata,100,2,1,50,moins de 5 ans,normal
+561,3500000,Branes 2,100,2,1,50,construction neuve,Luxe
+562,3500000,Branes 2,100,2,1,50,construction neuve,Luxe
+563,470000,Tanja Balia,57,2,1,28.5,plus de 5 ans,simple
+564,350000,Mghogha,50,2,1,25,plus de 5 ans,simple
+565,3500000,Branes 2,136,3,2,45.33333333,construction neuve,Luxe
+566,970000,Branes 2,74,2,1,37,moins de 5 ans,normal
+567,1100000,Mesnana,90,2,1,45,moins de 5 ans,normal
+568,1196000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+569,300000,Achakar,57,2,1,28.5,plus de 5 ans,simple
+571,750000,Mesnana,97,2,1,48.5,moins de 5 ans,normal
+572,300000,Ben Dibane,50,2,1,25,plus de 5 ans,simple
+573,500000,Mesnana,60,2,1,30,plus de 5 ans,simple
+574,1248000,Tanja Balia,104,3,2,34.66666667,moins de 5 ans,normal
+575,650000,Ahlane,100,2,1,50,moins de 5 ans,normal
+576,800000,El Mers 1,70,2,1,35,moins de 5 ans,normal
+577,1196000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+578,430000,Mghogha,70,2,1,35,plus de 5 ans,simple
+579,750000,Achakar,300,4,2,75,moins de 5 ans,normal
+580,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+582,490000,Mesnana,55,2,1,27.5,plus de 5 ans,simple
+583,850000,Ben Dibane,50,2,1,25,moins de 5 ans,normal
+584,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+585,340000,Mesnana,52,2,1,26,plus de 5 ans,simple
+586,3200000,Iberie,187,3,2,62.33333333,construction neuve,Luxe
+587,600000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+588,360000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+589,920000,Malabata,80,2,1,40,moins de 5 ans,normal
+591,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+592,750000,Mghogha,200,3,2,66.66666667,moins de 5 ans,normal
+593,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+594,1250000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+595,1200000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+596,920000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+597,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+599,400000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+600,1000000,Malabata,300,4,2,75,moins de 5 ans,normal
+601,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+602,1000000,Mesnana,112,3,2,37.33333333,moins de 5 ans,normal
+605,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+606,540000,Val Fleuri,57,2,1,28.5,plus de 5 ans,simple
+607,720000,Mesnana,65,2,1,32.5,moins de 5 ans,normal
+609,440000,Malabata,54,2,1,27,plus de 5 ans,simple
+610,2600000,Val Fleuri,235,3,2,78.33333333,construction neuve,Luxe
+611,931500,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+612,440000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+613,2150000,Malabata,250,3,2,83.33333333,construction neuve,Luxe
+615,960000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+616,450000,Tanja Balia,200,3,2,66.66666667,plus de 5 ans,simple
+617,2600000,Achakar,160,3,2,53.33333333,construction neuve,Luxe
+618,1370000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+619,3368000,Mesnana,220,3,2,73.33333333,construction neuve,Luxe
+620,1050000,Mesnana,138,3,2,46,moins de 5 ans,normal
+621,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+622,580000,Ahlane,80,2,1,40,moins de 5 ans,normal
+623,670000,Mesnana,100,2,1,50,moins de 5 ans,normal
+624,960000,Tanja Balia,200,3,2,66.66666667,moins de 5 ans,normal
+625,760000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+626,640000,Ahlane,84,2,1,42,moins de 5 ans,normal
+627,960000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+628,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+629,265000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+630,480000,Moujahidine,60,2,1,30,plus de 5 ans,simple
+631,1600000,Branes 1,127,3,2,42.33333333,construction neuve,Luxe
+632,1800000,Branes 2,250,3,2,83.33333333,construction neuve,Luxe
+634,3300000,Moujahidine,120,3,2,40,construction neuve,Luxe
+635,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+636,1720000,Malabata,117,3,2,39,construction neuve,Luxe
+637,3700000,Val Fleuri,200,3,2,66.66666667,construction neuve,Luxe
+638,420000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+639,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+640,850000,Val Fleuri,147,3,2,49,moins de 5 ans,normal
+641,1104000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+642,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+643,250000,Ahlane,50,2,1,25,plus de 5 ans,simple
+644,750000,Mesnana,234,3,2,78,moins de 5 ans,normal
+647,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+648,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+649,1950000,Souani,90,2,1,45,construction neuve,Luxe
+651,960000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+652,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+654,2500000,Souani,250,3,2,83.33333333,construction neuve,Luxe
+656,1331000,Val Fleuri,121,3,2,40.33333333,moins de 5 ans,normal
+657,330000,Malabata,52,2,1,26,plus de 5 ans,simple
+658,1000000,Ahlane,95,2,1,47.5,moins de 5 ans,normal
+659,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+660,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+661,240000,Mghogha,50,2,1,25,plus de 5 ans,simple
+662,850000,Casabarata,50,2,1,25,moins de 5 ans,normal
+663,1350000,Mesnana,165,3,2,55,moins de 5 ans,normal
+664,1480000,Branes 1,81,2,1,40.5,construction neuve,Luxe
+665,1500000,Branes 2,100,2,1,50,construction neuve,Luxe
+667,948000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+668,1100000,M'Nar,200,3,2,66.66666667,moins de 5 ans,normal
+669,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+670,720000,Ben Dibane,100,2,1,50,moins de 5 ans,normal
+672,590000,Ahlane,100,2,1,50,moins de 5 ans,normal
+674,1000000,Malabata,300,4,2,75,moins de 5 ans,normal
+675,620000,Moujahidine,62,2,1,31,moins de 5 ans,normal
+676,1800000,Iberie,50,2,1,25,construction neuve,Luxe
+677,2600000,Achakar,160,3,2,53.33333333,construction neuve,Luxe
+678,2500000,Moujahidine,110,3,2,36.66666667,construction neuve,Luxe
+679,1500000,Malabata,88,2,1,44,construction neuve,Luxe
+680,1700000,Jirrari,94,2,1,47,construction neuve,Luxe
+681,470000,Moujahidine,70,2,1,35,plus de 5 ans,simple
+682,620000,Moujahidine,160,3,2,53.33333333,moins de 5 ans,normal
+685,2600000,Mghogha,57,2,1,28.5,construction neuve,Luxe
+686,200000,Achakar,70,2,1,35,plus de 5 ans,simple
+687,830000,Casabarata,131,3,2,43.66666667,moins de 5 ans,normal
+688,2400000,Malabata,145,3,2,48.33333333,construction neuve,Luxe
+689,1152000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+690,960000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+691,1200000,Malabata,250,3,2,83.33333333,moins de 5 ans,normal
+693,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+695,1600000,Malabata,200,3,2,66.66666667,construction neuve,Luxe
+696,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+697,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+698,2329000,Malabata,137,3,2,45.66666667,construction neuve,Luxe
+699,480000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+700,1650000,M'Nar,123,3,2,41,construction neuve,Luxe
+701,850000,Moujahidine,91,2,1,45.5,moins de 5 ans,normal
+702,2600000,Achakar,160,3,2,53.33333333,construction neuve,Luxe
+703,1120000,Castilla,80,2,1,40,moins de 5 ans,normal
+704,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+705,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+707,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+708,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+710,2700000,Malabata,200,3,2,66.66666667,construction neuve,Luxe
+711,370000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+712,1400000,Castilla,130,3,2,43.33333333,moins de 5 ans,normal
+713,1850000,Malabata,116,3,2,38.66666667,construction neuve,Luxe
+714,450000,Moujahidine,100,2,1,50,plus de 5 ans,simple
+715,440000,Mghogha,100,2,1,50,plus de 5 ans,simple
+716,1850000,Tanja Balia,77,2,1,38.5,construction neuve,Luxe
+717,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+718,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+719,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+720,550000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+721,480000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+722,940000,Mesnana,96,2,1,48,moins de 5 ans,normal
+724,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+726,700000,Ahlane,64,2,1,32,moins de 5 ans,normal
+727,3300000,Malabata,270,4,2,67.5,construction neuve,Luxe
+729,1720000,Malabata,118,3,2,39.33333333,construction neuve,Luxe
+731,1450000,Malabata,105,3,2,35,moins de 5 ans,normal
+733,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+734,2550000,Ahlane,108,3,2,36,construction neuve,Luxe
+735,325000,Achakar,52,2,1,26,plus de 5 ans,simple
+736,2600000,Achakar,160,3,2,53.33333333,construction neuve,Luxe
+737,720000,Mesnana,100,2,1,50,moins de 5 ans,normal
+738,1425000,Castilla,95,2,1,47.5,moins de 5 ans,normal
+739,1872000,Castilla,117,3,2,39,construction neuve,Luxe
+740,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+741,2750000,M'Nar,148,3,2,49.33333333,construction neuve,Luxe
+742,1500000,Iberie,108,3,2,36,construction neuve,Luxe
+743,980000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+744,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+746,500000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+747,880000,Branes 2,64,2,1,32,moins de 5 ans,normal
+748,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+749,1380000,Malabata,250,3,2,83.33333333,moins de 5 ans,normal
+750,1300000,Drissia,93,2,1,46.5,moins de 5 ans,normal
+751,1280000,Malabata,100,2,1,50,moins de 5 ans,normal
+752,3000000,Tanja Balia,280,4,2,70,construction neuve,Luxe
+753,1120000,Castilla,80,2,1,40,moins de 5 ans,normal
+754,720000,Val Fleuri,76,2,1,38,moins de 5 ans,normal
+755,2000000,M'Nar,109,3,2,36.33333333,construction neuve,Luxe
+757,750000,Moujahidine,200,3,2,66.66666667,moins de 5 ans,normal
+758,3600000,Souani,130,3,2,43.33333333,construction neuve,Luxe
+759,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+760,450000,Tanja Balia,200,3,2,66.66666667,plus de 5 ans,simple
+761,1425000,Castilla,95,2,1,47.5,moins de 5 ans,normal
+762,450000,Tanja Balia,100,2,1,50,plus de 5 ans,simple
+763,800000,Mesnana,95,2,1,47.5,moins de 5 ans,normal
+764,480000,Mesnana,150,3,2,50,plus de 5 ans,simple
+765,4000000,Malabata,136,3,2,45.33333333,construction neuve,Luxe
+767,1140000,Tanja Balia,130,3,2,43.33333333,moins de 5 ans,normal
+768,950000,Mesnana,250,3,2,83.33333333,moins de 5 ans,normal
+771,370000,Moujahidine,200,3,2,66.66666667,plus de 5 ans,simple
+772,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+774,750000,Drissia,100,2,1,50,moins de 5 ans,normal
+775,300000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+776,1700000,Mesnana,65,2,1,32.5,construction neuve,Luxe
+778,1800000,Mghogha,90,2,1,45,construction neuve,Luxe
+780,760000,Mesnana,100,2,1,50,moins de 5 ans,normal
+781,420000,Tanja Balia,100,2,1,50,plus de 5 ans,simple
+782,830000,Malabata,250,3,2,83.33333333,moins de 5 ans,normal
+783,950000,Val Fleuri,124,3,2,41.33333333,moins de 5 ans,normal
+784,550000,Mesnana,200,3,2,66.66666667,plus de 5 ans,simple
+785,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+786,520000,Ahlane,80,2,1,40,plus de 5 ans,simple
+787,2600000,Moulay Youssef,250,3,2,83.33333333,construction neuve,Luxe
+788,1450000,Malabata,105,3,2,35,moins de 5 ans,normal
+789,2400000,Tanja Balia,108,3,2,36,construction neuve,Luxe
+790,1150000,Tanja Balia,140,3,2,46.66666667,moins de 5 ans,normal
+792,960000,Ahlane,128,3,2,42.66666667,moins de 5 ans,normal
+793,1522000,Malabata,87,2,1,43.5,construction neuve,Luxe
+794,660000,Mesnana,50,2,1,25,moins de 5 ans,normal
+795,1050000,Branes 2,107,3,2,35.66666667,moins de 5 ans,normal
+796,350000,Tanja Balia,53,2,1,26.5,plus de 5 ans,simple
+797,1600000,Achakar,169,3,2,56.33333333,construction neuve,Luxe
+798,480000,El Mers 1,100,2,1,50,plus de 5 ans,simple
+799,220000,El Mers 1,55,2,1,27.5,plus de 5 ans,simple
+800,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+801,750000,Jirrari,80,2,1,40,moins de 5 ans,normal
+802,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+803,390000,Achakar,60,2,1,30,plus de 5 ans,simple
+804,1900000,Jirrari,100,2,1,50,construction neuve,Luxe
+805,1170000,Castilla,65,2,1,32.5,moins de 5 ans,normal
+806,750000,Drissia,100,2,1,50,moins de 5 ans,normal
+807,2400000,Iberie,175,3,2,58.33333333,construction neuve,Luxe
+808,430000,Moujahidine,100,2,1,50,plus de 5 ans,simple
+809,4000000,Mesnana,110,3,2,36.66666667,construction neuve,Luxe
+812,480000,Mesnana,50,2,1,25,plus de 5 ans,simple
+813,280000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+814,780000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+815,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+817,280000,Achakar,56,2,1,28,plus de 5 ans,simple
+818,310000,Moujahidine,52,2,1,26,plus de 5 ans,simple
+820,770000,Benkirane,160,3,2,53.33333333,moins de 5 ans,normal
+821,370000,Achakar,53,2,1,26.5,plus de 5 ans,simple
+822,2600000,Ahlane,120,3,2,40,construction neuve,Luxe
+823,930000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+824,950000,Castilla,150,3,2,50,moins de 5 ans,normal
+825,800000,Mghogha,55,2,1,27.5,moins de 5 ans,normal
+826,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+827,3800000,Val Fleuri,300,4,2,75,construction neuve,Luxe
+828,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+829,900000,Souani,60,2,1,30,moins de 5 ans,normal
+830,1720000,Malabata,118,3,2,39.33333333,construction neuve,Luxe
+831,1090000,Tanja Balia,300,4,2,75,moins de 5 ans,normal
+832,1500000,Tanja Balia,70,2,1,35,construction neuve,Luxe
+833,660000,Branes 2,70,2,1,35,moins de 5 ans,normal
+834,1225000,Mesnana,164,3,2,54.66666667,moins de 5 ans,normal
+835,2350000,Mesnana,112,3,2,37.33333333,construction neuve,Luxe
+836,3100000,Ahlane,116,3,2,38.66666667,construction neuve,Luxe
+837,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+838,950000,Mesnana,100,2,1,50,moins de 5 ans,normal
+839,1000000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+840,710000,Mesnana,200,3,2,66.66666667,moins de 5 ans,normal
+841,1980000,Malabata,250,3,2,83.33333333,construction neuve,Luxe
+842,1150000,Malabata,250,3,2,83.33333333,moins de 5 ans,normal
+843,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+844,800000,Mesnana,55,2,1,27.5,moins de 5 ans,normal
+845,820000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+846,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+847,750000,Benkirane,100,2,1,50,moins de 5 ans,normal
+848,1600000,Moulay Youssef,150,3,2,50,construction neuve,Luxe
+849,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+850,755000,Castilla,100,2,1,50,moins de 5 ans,normal
+851,750000,Tanja Balia,76,2,1,38,moins de 5 ans,normal
+852,450000,Mghogha,72,2,1,36,plus de 5 ans,simple
+853,900000,Mesnana,150,3,2,50,moins de 5 ans,normal
+854,2160000,Tanja Balia,180,3,2,60,construction neuve,Luxe
+855,2950000,Iberie,250,3,2,83.33333333,construction neuve,Luxe
+856,2800000,Branes 2,130,3,2,43.33333333,construction neuve,Luxe
+857,1280000,Malabata,100,2,1,50,moins de 5 ans,normal
+858,820000,Mesnana,86,2,1,43,moins de 5 ans,normal
+859,300000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+860,500000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+861,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+862,2350000,Iberie,147,3,2,49,construction neuve,Luxe
+863,1500000,Achakar,165,3,2,55,construction neuve,Luxe
+864,400000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+865,600000,Tanja Balia,120,3,2,40,moins de 5 ans,normal
+866,780000,Mghogha,120,3,2,40,moins de 5 ans,normal
+867,360000,Ahlane,52,2,1,26,plus de 5 ans,simple
+868,885000,Souani,122,3,2,40.66666667,moins de 5 ans,normal
+869,830000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+870,3400000,Branes 1,132,3,2,44,construction neuve,Luxe
+871,370000,Tanja Balia,100,2,1,50,plus de 5 ans,simple
+872,980000,Mesnana,200,3,2,66.66666667,moins de 5 ans,normal
+873,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+875,900000,Moulay Youssef,150,3,2,50,moins de 5 ans,normal
+876,1450000,Malabata,105,3,2,35,moins de 5 ans,normal
+877,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+879,260000,El Mers 2,60,2,1,30,plus de 5 ans,simple
+880,280000,El Mers 1,60,2,1,30,plus de 5 ans,simple
+881,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+882,550000,Ahlane,120,3,2,40,plus de 5 ans,simple
+883,700000,Val Fleuri,150,3,2,50,moins de 5 ans,normal
+884,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+885,950000,Branes 2,90,2,1,45,moins de 5 ans,normal
+886,700000,Tanja Balia,105,3,2,35,moins de 5 ans,normal
+887,870000,Branes 2,112,3,2,37.33333333,moins de 5 ans,normal
+888,950000,Mesnana,200,3,2,66.66666667,moins de 5 ans,normal
+889,1400000,Achakar,200,3,2,66.66666667,moins de 5 ans,normal
+890,750000,Moulay Youssef,120,3,2,40,moins de 5 ans,normal
+891,650000,Ahlane,100,2,1,50,moins de 5 ans,normal
+892,2900000,Mesnana,100,2,1,50,construction neuve,Luxe
+893,1290000,Branes 2,200,3,2,66.66666667,moins de 5 ans,normal
+894,3780000,Iberie,300,4,2,75,construction neuve,Luxe
+895,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+896,3000000,Branes 1,134,3,2,44.66666667,construction neuve,Luxe
+898,470000,Mesnana,100,2,1,50,plus de 5 ans,simple
+899,580000,Mesnana,58,2,1,29,moins de 5 ans,normal
+900,950000,Castilla,150,3,2,50,moins de 5 ans,normal
+901,450000,Moujahidine,100,2,1,50,plus de 5 ans,simple
+902,490000,Mesnana,150,3,2,50,plus de 5 ans,simple
+903,550000,Tanja Balia,70,2,1,35,plus de 5 ans,simple
+904,2000000,Tanja Balia,110,3,2,36.66666667,construction neuve,Luxe
+905,750000,Ben Dibane,60,2,1,30,moins de 5 ans,normal
+906,470000,Mesnana,150,3,2,50,plus de 5 ans,simple
+907,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+908,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+909,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+910,960000,Val Fleuri,98,2,1,49,moins de 5 ans,normal
+911,400000,Moujahidine,58,2,1,29,plus de 5 ans,simple
+913,650000,Ahlane,90,2,1,45,moins de 5 ans,normal
+914,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+915,950000,Casabarata,52,2,1,26,moins de 5 ans,normal
+916,1600000,Souani,82,2,1,41,construction neuve,Luxe
+917,560000,Ahlane,100,2,1,50,plus de 5 ans,simple
+918,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+919,450000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+920,550000,Mghogha,100,2,1,50,plus de 5 ans,simple
+921,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+923,350000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+924,430000,Tanja Balia,150,3,2,50,plus de 5 ans,simple
+925,1447000,Val Fleuri,250,3,2,83.33333333,moins de 5 ans,normal
+926,350000,Mghogha,50,2,1,25,plus de 5 ans,simple
+927,450000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+929,450000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+930,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+931,334000,Achakar,60,2,1,30,plus de 5 ans,simple
+932,690000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+933,450000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+934,340000,Achakar,51,2,1,25.5,plus de 5 ans,simple
+936,3800000,Castilla,50,2,1,25,construction neuve,Luxe
+937,450000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+938,300000,Mesnana,54,2,1,27,plus de 5 ans,simple
+939,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+940,3500000,Achakar,250,3,2,83.33333333,construction neuve,Luxe
+941,300000,Mesnana,54,2,1,27,plus de 5 ans,simple
+942,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+943,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+944,2850000,Iberie,300,4,2,75,construction neuve,Luxe
+945,300000,Mesnana,54,2,1,27,plus de 5 ans,simple
+946,860000,Mesnana,62,2,1,31,moins de 5 ans,normal
+947,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+949,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+951,1500000,Moulay Youssef,300,4,2,75,construction neuve,Luxe
+952,2300000,Mesnana,104,3,2,34.66666667,construction neuve,Luxe
+953,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+954,1200000,Mghogha,108,3,2,36,moins de 5 ans,normal
+955,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+956,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+957,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+958,690000,Jirrari,75,2,1,37.5,moins de 5 ans,normal
+959,350000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+960,630000,Moujahidine,78,2,1,39,moins de 5 ans,normal
+961,799000,Mghogha,100,2,1,50,moins de 5 ans,normal
+962,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+963,210000,Mghogha,50,2,1,25,plus de 5 ans,simple
+964,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+965,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+966,760000,Mesnana,100,2,1,50,moins de 5 ans,normal
+967,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+968,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+970,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+971,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+972,860000,Mesnana,62,2,1,31,moins de 5 ans,normal
+973,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+974,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+975,470000,Achakar,53,2,1,26.5,plus de 5 ans,simple
+976,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+978,980000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+979,350000,Achakar,52,2,1,26,plus de 5 ans,simple
+980,2200000,Malabata,120,3,2,40,construction neuve,Luxe
+981,750000,Moujahidine,150,3,2,50,moins de 5 ans,normal
+982,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+983,300000,Mesnana,52,2,1,26,plus de 5 ans,simple
+984,800000,Val Fleuri,80,2,1,40,moins de 5 ans,normal
+985,800000,Marchane,75,2,1,37.5,moins de 5 ans,normal
+986,800000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+987,555000,Mesnana,150,3,2,50,plus de 5 ans,simple
+988,440000,Tanja Balia,100,2,1,50,plus de 5 ans,simple
+989,340000,El Mers 1,50,2,1,25,plus de 5 ans,simple
+990,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+991,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+992,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+993,250000,Achakar,60,2,1,30,plus de 5 ans,simple
+994,420000,Val Fleuri,100,2,1,50,plus de 5 ans,simple
+995,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+996,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+997,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+998,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+999,480000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+1000,680000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+1001,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1002,650000,Mghogha,150,3,2,50,moins de 5 ans,normal
+1003,850000,Souani,110,3,2,36.66666667,moins de 5 ans,normal
+1004,1900000,Branes 1,200,3,2,66.66666667,construction neuve,Luxe
+1005,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1006,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1008,990000,Malabata,200,3,2,66.66666667,moins de 5 ans,normal
+1011,2200000,Jirrari,120,3,2,40,construction neuve,Luxe
+1012,660000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1013,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1014,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1015,660000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1016,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1017,550000,Ahlane,57,2,1,28.5,plus de 5 ans,simple
+1018,495000,Ahlane,100,2,1,50,plus de 5 ans,simple
+1019,700000,Mesnana,89,2,1,44.5,moins de 5 ans,normal
+1020,2500000,Ahlane,130,3,2,43.33333333,construction neuve,Luxe
+1021,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1022,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1023,2900000,Mghogha,62,2,1,31,construction neuve,Luxe
+1025,590000,Achakar,100,2,1,50,moins de 5 ans,normal
+1026,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1027,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1028,450000,Casabarata,76,2,1,38,plus de 5 ans,simple
+1030,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+1031,660000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1033,1050000,Branes 2,108,3,2,36,moins de 5 ans,normal
+1035,310000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1036,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1037,1280000,Branes 1,150,3,2,50,moins de 5 ans,normal
+1038,3500000,Achakar,53,2,1,26.5,construction neuve,Luxe
+1039,300000,Mghogha,57,2,1,28.5,plus de 5 ans,simple
+1040,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1041,200000,Achakar,50,2,1,25,plus de 5 ans,simple
+1043,360000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+1044,280000,M'Nar,57,2,1,28.5,plus de 5 ans,simple
+1045,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1046,310000,Tanja Balia,70,2,1,35,plus de 5 ans,simple
+1047,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1048,1300000,Branes 2,200,3,2,66.66666667,moins de 5 ans,normal
+1049,480000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+1050,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1051,570000,Val Fleuri,100,2,1,50,plus de 5 ans,simple
+1053,550000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1054,580000,Mesnana,100,2,1,50,moins de 5 ans,normal
+1057,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1058,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1060,1450000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+1061,850000,El Mers 2,77,2,1,38.5,moins de 5 ans,normal
+1062,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1063,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1065,2300000,Iberie,131,3,2,43.66666667,construction neuve,Luxe
+1066,600000,Ahlane,70,2,1,35,moins de 5 ans,normal
+1068,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1070,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1071,870000,Mesnana,86,2,1,43,moins de 5 ans,normal
+1072,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1073,340000,Mesnana,51,2,1,25.5,plus de 5 ans,simple
+1074,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1075,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1076,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1077,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1078,2300000,Mesnana,130,3,2,43.33333333,construction neuve,Luxe
+1079,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1080,550000,Tanja Balia,100,2,1,50,plus de 5 ans,simple
+1081,1550000,Mesnana,130,3,2,43.33333333,construction neuve,Luxe
+1083,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1084,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1085,800000,Mesnana,55,2,1,27.5,moins de 5 ans,normal
+1086,850000,Casabarata,50,2,1,25,moins de 5 ans,normal
+1087,300000,Achakar,50,2,1,25,plus de 5 ans,simple
+1088,1570000,Malabata,87,2,1,43.5,construction neuve,Luxe
+1089,320000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1090,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1091,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1093,1450000,Val Fleuri,117,3,2,39,moins de 5 ans,normal
+1095,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1096,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1097,700000,Mesnana,50,2,1,25,moins de 5 ans,normal
+1098,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+1100,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1101,1500000,Malabata,110,3,2,36.66666667,construction neuve,Luxe
+1102,310000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+1103,3200000,Tanja Balia,300,4,2,75,construction neuve,Luxe
+1104,1400000,Mesnana,130,3,2,43.33333333,moins de 5 ans,normal
+1105,850000,Moujahidine,130,3,2,43.33333333,moins de 5 ans,normal
+1106,1700000,Casabarata,100,2,1,50,construction neuve,Luxe
+1107,250000,El Mers 2,70,2,1,35,plus de 5 ans,simple
+1108,600000,Mghogha,57,2,1,28.5,moins de 5 ans,normal
+1109,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1110,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1111,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1113,1100000,Val Fleuri,120,3,2,40,moins de 5 ans,normal
+1114,650000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1115,450000,Mesnana,150,3,2,50,plus de 5 ans,simple
+1116,1200000,Malabata,76,2,1,38,moins de 5 ans,normal
+1118,700000,Tanja Balia,57,2,1,28.5,moins de 5 ans,normal
+1119,600000,Ahlane,80,2,1,40,moins de 5 ans,normal
+1120,1380000,Tanja Balia,131,3,2,43.66666667,moins de 5 ans,normal
+1122,850000,Moujahidine,130,3,2,43.33333333,moins de 5 ans,normal
+1123,440000,Mesnana,100,2,1,50,plus de 5 ans,simple
+1124,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1126,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1127,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1128,220000,Mghogha,60,2,1,30,plus de 5 ans,simple
+1130,750000,Mesnana,88,2,1,44,moins de 5 ans,normal
+1131,1300000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+1132,2300000,Malabata,200,3,2,66.66666667,construction neuve,Luxe
+1133,500000,Mghogha,55,2,1,27.5,plus de 5 ans,simple
+1135,720000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+1136,420000,Moujahidine,100,2,1,50,plus de 5 ans,simple
+1137,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1138,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1140,900000,Souani,300,4,2,75,moins de 5 ans,normal
+1141,310000,Achakar,65,2,1,32.5,plus de 5 ans,simple
+1142,900000,Moujahidine,150,3,2,50,moins de 5 ans,normal
+1143,1530000,Val Fleuri,180,3,2,60,construction neuve,Luxe
+1144,2400000,Jirrari,100,2,1,50,construction neuve,Luxe
+1146,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1147,730000,Moujahidine,78,2,1,39,moins de 5 ans,normal
+1149,2000000,M'Nar,100,2,1,50,construction neuve,Luxe
+1150,1750000,Ahlane,106,3,2,35.33333333,construction neuve,Luxe
+1151,460000,Tanja Balia,65,2,1,32.5,plus de 5 ans,simple
+1152,1750000,Tanja Balia,77,2,1,38.5,construction neuve,Luxe
+1153,840000,Casabarata,125,3,2,41.66666667,moins de 5 ans,normal
+1154,310000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+1155,900000,Moujahidine,120,3,2,40,moins de 5 ans,normal
+1156,430000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+1157,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1158,680000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1159,680000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1160,380000,Mghogha,65,2,1,32.5,plus de 5 ans,simple
+1161,580000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1162,360000,Mesnana,100,2,1,50,plus de 5 ans,simple
+1164,850000,Ahlane,94,2,1,47,moins de 5 ans,normal
+1165,750000,Benkirane,153,3,2,51,moins de 5 ans,normal
+1167,680000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1168,570000,Ahlane,70,2,1,35,plus de 5 ans,simple
+1169,390000,Achakar,100,2,1,50,plus de 5 ans,simple
+1170,1650000,Malabata,200,3,2,66.66666667,construction neuve,Luxe
+1172,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1173,460000,Tanja Balia,65,2,1,32.5,plus de 5 ans,simple
+1174,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1175,620000,Mesnana,60,2,1,30,moins de 5 ans,normal
+1176,650000,Moujahidine,150,3,2,50,moins de 5 ans,normal
+1177,820000,Iberie,69,2,1,34.5,moins de 5 ans,normal
+1179,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1180,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1181,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1182,1300000,Ahlane,77,2,1,38.5,moins de 5 ans,normal
+1184,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1185,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1186,340000,Mesnana,55,2,1,27.5,plus de 5 ans,simple
+1187,250000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+1188,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1189,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1190,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1191,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1192,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1193,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1194,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+1195,700000,Ahlane,85,2,1,42.5,moins de 5 ans,normal
+1197,800000,Branes 2,100,2,1,50,moins de 5 ans,normal
+1198,750000,Jirrari,72,2,1,36,moins de 5 ans,normal
+1200,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1201,2950000,Ahlane,116,3,2,38.66666667,construction neuve,Luxe
+1202,1200000,Moujahidine,98,2,1,49,moins de 5 ans,normal
+1204,500000,Mghogha,51,2,1,25.5,plus de 5 ans,simple
+1205,690000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+1206,1850000,Moulay Youssef,170,3,2,56.66666667,construction neuve,Luxe
+1207,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1208,790000,Branes 2,100,2,1,50,moins de 5 ans,normal
+1209,290000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+1210,310000,Moujahidine,55,2,1,27.5,plus de 5 ans,simple
+1211,300000,Tanja Balia,57,2,1,28.5,plus de 5 ans,simple
+1212,900000,Mesnana,150,3,2,50,moins de 5 ans,normal
+1214,490000,Mghogha,150,3,2,50,plus de 5 ans,simple
+1215,200000,Ben Dibane,50,2,1,25,plus de 5 ans,simple
+1216,680000,Ahlane,250,3,2,83.33333333,moins de 5 ans,normal
+1217,650000,Val Fleuri,199,3,2,66.33333333,moins de 5 ans,normal
+1218,1080000,Achakar,90,2,1,45,moins de 5 ans,normal
+1219,1500000,Branes 1,200,3,2,66.66666667,construction neuve,Luxe
+1220,2850000,Malabata,136,3,2,45.33333333,construction neuve,Luxe
+1221,310000,Moujahidine,55,2,1,27.5,plus de 5 ans,simple
+1222,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1223,240000,Mghogha,56,2,1,28,plus de 5 ans,simple
+1224,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1225,650000,Val Fleuri,100,2,1,50,moins de 5 ans,normal
+1226,270000,Achakar,50,2,1,25,plus de 5 ans,simple
+1227,480000,Val Fleuri,53,2,1,26.5,plus de 5 ans,simple
+1228,1300000,Malabata,67,2,1,33.5,moins de 5 ans,normal
+1229,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1230,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1231,1300000,Malabata,65,2,1,32.5,moins de 5 ans,normal
+1232,900000,Iberie,120,3,2,40,moins de 5 ans,normal
+1233,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1234,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1235,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+1236,800000,Ahlane,75,2,1,37.5,moins de 5 ans,normal
+1237,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1239,310000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+1240,300000,Tanja Balia,57,2,1,28.5,plus de 5 ans,simple
+1241,830000,Souani,122,3,2,40.66666667,moins de 5 ans,normal
+1242,2700000,Moujahidine,104,3,2,34.66666667,construction neuve,Luxe
+1243,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1244,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1245,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1246,340000,Achakar,54,2,1,27,plus de 5 ans,simple
+1247,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1248,470000,Mesnana,60,2,1,30,plus de 5 ans,simple
+1249,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1250,320000,Achakar,66,2,1,33,plus de 5 ans,simple
+1251,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1252,440000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1253,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1256,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1257,750000,Tanja Balia,73,2,1,36.5,moins de 5 ans,normal
+1258,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1259,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1260,820000,Ahlane,150,3,2,50,moins de 5 ans,normal
+1261,275000,Mghogha,56,2,1,28,plus de 5 ans,simple
+1262,350000,Mesnana,54,2,1,27,plus de 5 ans,simple
+1263,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1264,350000,Mesnana,52,2,1,26,plus de 5 ans,simple
+1265,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1266,850000,Drissia,82,2,1,41,moins de 5 ans,normal
+1267,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1268,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1269,1267500,Mesnana,115,3,2,38.33333333,moins de 5 ans,normal
+1270,1270000,Mesnana,115,3,2,38.33333333,moins de 5 ans,normal
+1271,880000,Ben Dibane,127,3,2,42.33333333,moins de 5 ans,normal
+1274,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1275,560000,Mesnana,63,2,1,31.5,plus de 5 ans,simple
+1276,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1277,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1278,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1281,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1282,1700000,Tanja Balia,98,2,1,49,construction neuve,Luxe
+1283,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1284,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1286,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1287,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1288,450000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1289,600000,Benkirane,75,2,1,37.5,moins de 5 ans,normal
+1290,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1291,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1292,2300000,Malabata,250,3,2,83.33333333,construction neuve,Luxe
+1293,850000,Achakar,300,4,2,75,moins de 5 ans,normal
+1294,200000,Mghogha,50,2,1,25,plus de 5 ans,simple
+1295,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1296,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1297,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1298,800000,Benkirane,100,2,1,50,moins de 5 ans,normal
+1299,300000,Tanja Balia,57,2,1,28.5,plus de 5 ans,simple
+1300,350000,Mesnana,53,2,1,26.5,plus de 5 ans,simple
+1301,560000,Mesnana,64,2,1,32,plus de 5 ans,simple
+1302,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1303,680000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1305,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1306,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1307,543100,Mghogha,58,2,1,29,plus de 5 ans,simple
+1308,260000,Mghogha,50,2,1,25,plus de 5 ans,simple
+1309,800000,Benkirane,100,2,1,50,moins de 5 ans,normal
+1310,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1311,2800000,Ahlane,111,3,2,37,construction neuve,Luxe
+1313,850000,Moulay Youssef,85,2,1,42.5,moins de 5 ans,normal
+1314,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1315,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1316,480000,Mesnana,150,3,2,50,plus de 5 ans,simple
+1318,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1319,903000,Moujahidine,200,3,2,66.66666667,moins de 5 ans,normal
+1320,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1322,320000,Achakar,66,2,1,33,plus de 5 ans,simple
+1324,530000,Moujahidine,100,2,1,50,plus de 5 ans,simple
+1325,450000,Achakar,100,2,1,50,plus de 5 ans,simple
+1326,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+1327,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1328,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1329,580000,Ben Dibane,100,2,1,50,moins de 5 ans,normal
+1330,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1332,850000,Tanja Balia,108,3,2,36,moins de 5 ans,normal
+1333,640000,Tanja Balia,150,3,2,50,moins de 5 ans,normal
+1334,300000,Mghogha,52,2,1,26,plus de 5 ans,simple
+1335,400000,Mghogha,100,2,1,50,plus de 5 ans,simple
+1336,700000,Mesnana,100,2,1,50,moins de 5 ans,normal
+1338,1600000,Branes 1,200,3,2,66.66666667,construction neuve,Luxe
+1340,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+1341,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1343,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1344,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1345,2440000,Branes 1,197,3,2,65.66666667,construction neuve,Luxe
+1346,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1347,690000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1348,600000,Tanja Balia,50,2,1,25,moins de 5 ans,normal
+1349,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1350,690000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1351,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1352,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1353,2800000,Mesnana,110,3,2,36.66666667,construction neuve,Luxe
+1354,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1355,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1356,280000,Jirrari,50,2,1,25,plus de 5 ans,simple
+1357,1100000,Val Fleuri,83,2,1,41.5,moins de 5 ans,normal
+1358,300000,Achakar,56,2,1,28,plus de 5 ans,simple
+1360,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+1361,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1362,4000000,Moujahidine,51,2,1,25.5,construction neuve,Luxe
+1363,600000,Ben Dibane,110,3,2,36.66666667,moins de 5 ans,normal
+1364,750000,Mesnana,150,3,2,50,moins de 5 ans,normal
+1365,1550000,Mesnana,90,2,1,45,construction neuve,Luxe
+1366,990000,Moujahidine,102,3,2,34,moins de 5 ans,normal
+1368,310000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+1369,550000,Mesnana,82,2,1,41,plus de 5 ans,simple
+1371,290000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+1372,430000,Tanja Balia,59,2,1,29.5,plus de 5 ans,simple
+1373,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1374,280000,Moujahidine,200,3,2,66.66666667,plus de 5 ans,simple
+1376,850000,Moujahidine,150,3,2,50,moins de 5 ans,normal
+1380,1400000,Ahlane,134,3,2,44.66666667,moins de 5 ans,normal
+1382,490000,Mesnana,53,2,1,26.5,plus de 5 ans,simple
+1383,470000,Ahlane,60,2,1,30,plus de 5 ans,simple
+1384,830000,Souani,122,3,2,40.66666667,moins de 5 ans,normal
+1385,1200000,Moujahidine,77,2,1,38.5,moins de 5 ans,normal
+1386,750000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1387,850000,Mghogha,90,2,1,45,moins de 5 ans,normal
+1388,250000,Mghogha,55,2,1,27.5,plus de 5 ans,simple
+1389,570000,Tanja Balia,68,2,1,34,plus de 5 ans,simple
+1390,1400000,Achakar,254,4,2,63.5,moins de 5 ans,normal
+1391,580000,Ahlane,77,2,1,38.5,moins de 5 ans,normal
+1392,800000,Mesnana,100,2,1,50,moins de 5 ans,normal
+1393,1200000,Mesnana,150,3,2,50,moins de 5 ans,normal
+1394,950000,Castilla,200,3,2,66.66666667,moins de 5 ans,normal
+1395,950000,Ahlane,92,2,1,46,moins de 5 ans,normal
+1397,950000,Mesnana,200,3,2,66.66666667,moins de 5 ans,normal
+1400,450000,Mghogha,77,2,1,38.5,plus de 5 ans,simple
+1401,3200000,Malabata,180,3,2,60,construction neuve,Luxe
+1402,490000,Mesnana,53,2,1,26.5,plus de 5 ans,simple
+1404,500000,Achakar,60,2,1,30,plus de 5 ans,simple
+1405,680000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1406,850000,El Mers 2,60,2,1,30,moins de 5 ans,normal
+1408,300000,Mesnana,100,2,1,50,plus de 5 ans,simple
+1410,280000,Achakar,55,2,1,27.5,plus de 5 ans,simple
+1411,650000,Mesnana,100,2,1,50,moins de 5 ans,normal
+1412,420000,Val Fleuri,52,2,1,26,plus de 5 ans,simple
+1413,670000,Ahlane,100,2,1,50,moins de 5 ans,normal
+1415,850000,Val Fleuri,80,2,1,40,moins de 5 ans,normal
+1417,665000,Tanja Balia,150,3,2,50,moins de 5 ans,normal
+1418,680000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1419,440000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+1420,540000,Val Fleuri,60,2,1,30,plus de 5 ans,simple
+1421,700000,Ahlane,200,3,2,66.66666667,moins de 5 ans,normal
+1423,430000,Moujahidine,150,3,2,50,plus de 5 ans,simple
+1424,650000,Mghogha,70,2,1,35,moins de 5 ans,normal
+1425,1800000,Moulay Youssef,200,3,2,66.66666667,construction neuve,Luxe
+1431,330000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+1432,860000,Jirrari,150,3,2,50,moins de 5 ans,normal
+1434,2400000,Iberie,170,3,2,56.66666667,construction neuve,Luxe
+1435,350000,Moujahidine,56,2,1,28,plus de 5 ans,simple
+1437,800000,Moujahidine,90,2,1,45,moins de 5 ans,normal
+1439,2200000,Malabata,125,3,2,41.66666667,construction neuve,Luxe
+1440,550000,Mesnana,150,3,2,50,plus de 5 ans,simple
+1441,725000,Val Fleuri,200,3,2,66.66666667,moins de 5 ans,normal
+1442,500000,Val Fleuri,52,2,1,26,plus de 5 ans,simple
+1443,338000,Mesnana,100,2,1,50,plus de 5 ans,simple
+1444,800000,Tanja Balia,95,2,1,47.5,moins de 5 ans,normal
+1447,720000,Souani,130,3,2,43.33333333,moins de 5 ans,normal
+1448,2150000,Iberie,200,3,2,66.66666667,construction neuve,Luxe
+1449,570000,Val Fleuri,200,3,2,66.66666667,plus de 5 ans,simple
+1453,450000,Moujahidine,60,2,1,30,plus de 5 ans,simple
+1455,690000,Mesnana,82,2,1,41,moins de 5 ans,normal
+1456,560000,Ahlane,85,2,1,42.5,plus de 5 ans,simple
+1457,1800000,Marchane,130,3,2,43.33333333,construction neuve,Luxe
+1458,300000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+1459,900000,Val Fleuri,92,2,1,46,moins de 5 ans,normal
+1463,350000,Mesnana,125,3,2,41.66666667,plus de 5 ans,simple
+1464,850000,Mesnana,105,3,2,35,moins de 5 ans,normal
+1465,250000,Mghogha,55,2,1,27.5,plus de 5 ans,simple
+1467,590000,Mesnana,65,2,1,32.5,moins de 5 ans,normal
+1468,1190000,Branes 2,200,3,2,66.66666667,moins de 5 ans,normal
+1469,1750000,Malabata,120,3,2,40,construction neuve,Luxe
+1470,480000,Mghogha,69,2,1,34.5,plus de 5 ans,simple
+1471,460000,Tanja Balia,62,2,1,31,plus de 5 ans,simple
+1472,1800000,Achakar,239,3,2,79.66666667,construction neuve,Luxe
+1473,800000,Mesnana,120,3,2,40,moins de 5 ans,normal
+1474,600000,Benkirane,100,2,1,50,moins de 5 ans,normal
+1477,400000,Moujahidine,54,2,1,27,plus de 5 ans,simple
+1478,2500000,Mesnana,80,2,1,40,construction neuve,Luxe
+1479,900000,Ben Dibane,106,3,2,35.33333333,moins de 5 ans,normal
+1480,660000,Jirrari,78,2,1,39,moins de 5 ans,normal
+1484,1150000,Ahlane,133,3,2,44.33333333,moins de 5 ans,normal
+1485,700000,Mesnana,60,2,1,30,moins de 5 ans,normal
+1486,2700000,Branes 1,110,3,2,36.66666667,construction neuve,Luxe
+1487,850000,Mesnana,55,2,1,27.5,moins de 5 ans,normal
+1488,2290000,Iberie,132,3,2,44,construction neuve,Luxe
+1489,570000,Branes 1,100,2,1,50,plus de 5 ans,simple
+1490,1700000,Malabata,85,2,1,42.5,construction neuve,Luxe
+1491,240000,Mghogha,53,2,1,26.5,plus de 5 ans,simple
+1492,380000,Mesnana,60,2,1,30,plus de 5 ans,simple
+1493,1080000,Iberie,108,3,2,36,moins de 5 ans,normal
+1495,330000,Val Fleuri,55,2,1,27.5,plus de 5 ans,simple
+1496,500000,Al Kasaba,115,3,2,38.33333333,plus de 5 ans,simple
+1497,2000000,Malabata,146,3,2,48.66666667,construction neuve,Luxe
+1500,660000,Souani,87,2,1,43.5,moins de 5 ans,normal
+1501,1400000,Malabata,135,3,2,45,moins de 5 ans,normal
+1504,700000,Mesnana,67,2,1,33.5,moins de 5 ans,normal
+1505,1150000,Souani,200,3,2,66.66666667,moins de 5 ans,normal
+1508,540000,Ahlane,85,2,1,42.5,plus de 5 ans,simple
+1509,650000,Ahlane,73,2,1,36.5,moins de 5 ans,normal
+1510,280000,Tanja Balia,58,2,1,29,plus de 5 ans,simple
+1513,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1514,1565600,Malabata,87,2,1,43.5,construction neuve,Luxe
+1515,2184300,Malabata,182,3,2,60.66666667,construction neuve,Luxe
+1516,1207500,Mesnana,115,3,2,38.33333333,moins de 5 ans,normal
+1517,1176000,Mesnana,112,3,2,37.33333333,moins de 5 ans,normal
+1518,1239000,Mesnana,118,3,2,39.33333333,moins de 5 ans,normal
+1519,1097000,Mesnana,110,3,2,36.66666667,moins de 5 ans,normal
+1520,1107000,Mesnana,111,3,2,37,moins de 5 ans,normal
+1521,2440000,Centre,121,3,2,40.33333333,construction neuve,Luxe
+1522,1570000,Malabata,63,2,1,31.5,construction neuve,Luxe
+1523,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1524,2980000,Centre,142,3,2,47.33333333,construction neuve,Luxe
+1525,950000,Mesnana,80,2,1,40,moins de 5 ans,normal
+1526,1680000,Malabata,84,2,1,42,construction neuve,Luxe
+1527,2980000,Centre,142,3,2,47.33333333,construction neuve,Luxe
+1528,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1529,1176000,Mesnana,112,3,2,37.33333333,moins de 5 ans,normal
+1530,1207500,Mesnana,115,3,2,38.33333333,moins de 5 ans,normal
+1531,1368000,Tanja Balia,114,3,2,38,moins de 5 ans,normal
+1532,1728000,Tanja Balia,144,3,2,48,construction neuve,Luxe
+1533,1656300,Malabata,124,3,2,41.33333333,construction neuve,Luxe
+1534,2184300,Malabata,179,3,2,59.66666667,construction neuve,Luxe
+1535,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+1536,1680000,Tanja Balia,140,3,2,46.66666667,construction neuve,Luxe
+1537,1300000,Centre,127,3,2,42.33333333,moins de 5 ans,normal
+1538,270000,Branes 1,82,2,1,41,plus de 5 ans,simple
+1539,900000,Ahlane,81,2,1,40.5,moins de 5 ans,normal
+1540,1650000,Centre,52,2,1,26,construction neuve,Luxe
+1541,2100000,Iberie,214,3,2,71.33333333,construction neuve,Luxe
+1542,1650000,Tanja Balia,200,3,2,66.66666667,construction neuve,Luxe
+1543,1680000,Tanja Balia,140,3,2,46.66666667,construction neuve,Luxe
+1544,2500000,Iberie,159,3,2,53,construction neuve,Luxe
+1545,1200000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+1546,867350,Mesnana,83,2,1,41.5,moins de 5 ans,normal
+1547,867350,Mesnana,83,2,1,41.5,moins de 5 ans,normal
+1548,1239000,Mesnana,118,3,2,39.33333333,moins de 5 ans,normal
+1549,1097000,Mesnana,110,3,2,36.66666667,moins de 5 ans,normal
+1550,1107000,Mesnana,111,3,2,37,moins de 5 ans,normal
+1551,1190000,Centre,99,2,1,49.5,moins de 5 ans,normal
+1552,2970000,Centre,151,3,2,50.33333333,construction neuve,Luxe
+1553,972000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1554,2385000,Centre,115,3,2,38.33333333,construction neuve,Luxe
+1555,1768000,Malabata,91,2,1,45.5,construction neuve,Luxe
+1556,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1557,996000,Tanja Balia,83,2,1,41.5,moins de 5 ans,normal
+1558,804000,Tanja Balia,67,2,1,33.5,moins de 5 ans,normal
+1559,1368000,Tanja Balia,114,3,2,38,moins de 5 ans,normal
+1560,2300000,Centre,87,2,1,43.5,construction neuve,Luxe
+1561,2380000,Iberie,120,3,2,40,construction neuve,Luxe
+1562,3780000,Iberie,210,3,2,70,construction neuve,Luxe
+1563,3456000,Iberie,192,3,2,64,construction neuve,Luxe
+1564,1416000,Tanja Balia,118,3,2,39.33333333,moins de 5 ans,normal
+1565,1650000,Malabata,88,2,1,44,construction neuve,Luxe
+1566,1850000,Malabata,101,3,2,33.66666667,construction neuve,Luxe
+1567,1612500,Branes 2,130,3,2,43.33333333,construction neuve,Luxe
+1568,1725000,Branes 2,115,3,2,38.33333333,construction neuve,Luxe
+1569,1450000,Centre,75,2,1,37.5,moins de 5 ans,normal
+1570,1725000,Branes 2,115,3,2,38.33333333,construction neuve,Luxe
+1571,540000,Centre,53,2,1,26.5,plus de 5 ans,simple
+1572,4000000,Centre,184,3,2,61.33333333,construction neuve,Luxe
+1573,1950000,Centre,182,3,2,60.66666667,construction neuve,Luxe
+1574,1350000,Centre,92,2,1,46,moins de 5 ans,normal
+1575,3840000,Iberie,185,3,2,61.66666667,construction neuve,Luxe
+1576,2650000,Centre,198,3,2,66,construction neuve,Luxe
+1577,672000,Tanja Balia,56,2,1,28,moins de 5 ans,normal
+1578,3000000,Centre,145,3,2,48.33333333,construction neuve,Luxe
+1579,1656000,Tanja Balia,138,3,2,46,construction neuve,Luxe
+1580,1260000,Tanja Balia,105,3,2,35,moins de 5 ans,normal
+1581,2177500,Malabata,91,2,1,45.5,construction neuve,Luxe
+1582,1995500,Malabata,91,2,1,45.5,construction neuve,Luxe
+1583,1631500,Malabata,91,2,1,45.5,construction neuve,Luxe
+1584,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1585,1200000,Centre,100,2,1,50,moins de 5 ans,normal
+1586,1732000,Malabata,89,2,1,44.5,construction neuve,Luxe
+1587,1640000,Malabata,82,2,1,41,construction neuve,Luxe
+1588,350000,Tanja Balia,50,2,1,25,plus de 5 ans,simple
+1589,1020000,Tanja Balia,85,2,1,42.5,moins de 5 ans,normal
+1590,1500000,Centre,93,2,1,46.5,construction neuve,Luxe
+1591,1768000,Malabata,91,2,1,45.5,construction neuve,Luxe
+1592,1950000,Iberie,117,3,2,39,construction neuve,Luxe
+1593,1152000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+1594,2970000,Centre,151,3,2,50.33333333,construction neuve,Luxe
+1595,1609000,Malabata,87,2,1,43.5,construction neuve,Luxe
+1596,1188000,Tanja Balia,99,2,1,49.5,moins de 5 ans,normal
+1597,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+1598,990000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+1599,1677000,Malabata,91,2,1,45.5,construction neuve,Luxe
+1600,430000,Moujahidine,50,2,1,25,plus de 5 ans,simple
+1601,960000,Branes 1,96,2,1,48,moins de 5 ans,normal
+1602,1083800,Malabata,65,2,1,32.5,moins de 5 ans,normal
+1603,3250000,Iberie,150,3,2,50,construction neuve,Luxe
+1604,3800000,Centre,132,3,2,44,construction neuve,Luxe
+1605,1732000,Malabata,89,2,1,44.5,construction neuve,Luxe
+1606,1152000,Malabata,72,2,1,36,moins de 5 ans,normal
+1607,2500000,Centre,180,3,2,60,construction neuve,Luxe
+1608,2700000,Iberie,139,3,2,46.33333333,construction neuve,Luxe
+1609,3600000,Centre,165,3,2,55,construction neuve,Luxe
+1610,2600000,Castilla,185,3,2,61.66666667,construction neuve,Luxe
+1611,2440000,Centre,121,3,2,40.33333333,construction neuve,Luxe
+1612,2385000,Centre,115,3,2,38.33333333,construction neuve,Luxe
+1613,1380000,Malabata,100,2,1,50,moins de 5 ans,normal
+1614,3000000,Centre,145,3,2,48.33333333,construction neuve,Luxe
+1615,2350000,Malabata,120,3,2,40,construction neuve,Luxe
+1616,3020000,Tanja Balia,151,3,2,50.33333333,construction neuve,Luxe
+1617,936000,Malabata,72,2,1,36,moins de 5 ans,normal
+1618,1850000,Centre,75,2,1,37.5,construction neuve,Luxe
+1619,570000,Mesnana,65,2,1,32.5,plus de 5 ans,simple
+1620,1070000,Centre,71,2,1,35.5,moins de 5 ans,normal
+1621,1500000,Tanja Balia,125,3,2,41.66666667,construction neuve,Luxe
+1622,750000,Ahlane,76,2,1,38,moins de 5 ans,normal
+1623,900000,Malabata,75,2,1,37.5,moins de 5 ans,normal
+1624,3200000,Iberie,141,3,2,47,construction neuve,Luxe
+1625,1600000,Val Fleuri,122,3,2,40.66666667,construction neuve,Luxe
+1626,913500,Moujahidine,87,2,1,43.5,moins de 5 ans,normal
+1627,400000,Moujahidine,58,2,1,29,plus de 5 ans,simple
+1628,1596000,Centre,152,3,2,50.66666667,construction neuve,Luxe
+1629,1650000,Centre,151,3,2,50.33333333,construction neuve,Luxe
+1630,890000,Achakar,115,3,2,38.33333333,moins de 5 ans,normal
+1631,700000,Val Fleuri,79,2,1,39.5,moins de 5 ans,normal
+1632,1150000,Bir Chifa,110,3,2,36.66666667,moins de 5 ans,normal
+1633,3192000,Iberie,183,3,2,61,construction neuve,Luxe
+1634,1030000,Moujahidine,86,2,1,43,moins de 5 ans,normal
+1635,3100000,Iberie,135,3,2,45,construction neuve,Luxe
+1637,4000000,Centre,138,3,2,46,construction neuve,Luxe
+1638,1450000,Castilla,93,2,1,46.5,moins de 5 ans,normal
+1639,820000,Mesnana,92,2,1,46,moins de 5 ans,normal
+1640,1150000,Branes 2,110,3,2,36.66666667,moins de 5 ans,normal
+1641,1200000,Castilla,120,3,2,40,moins de 5 ans,normal
+1642,1250000,Ahlane,100,2,1,50,moins de 5 ans,normal
+1643,2600000,Iberie,155,3,2,51.66666667,construction neuve,Luxe
+1644,900000,Marchane,92,2,1,46,moins de 5 ans,normal
+1645,1128000,M'Nar,94,2,1,47,moins de 5 ans,normal
+1646,1150000,Castilla,140,3,2,46.66666667,moins de 5 ans,normal
+1647,1450000,Iberie,97,2,1,48.5,moins de 5 ans,normal
+1648,1700000,Iberie,130,3,2,43.33333333,construction neuve,Luxe
+1649,1527000,Castilla,148,3,2,49.33333333,construction neuve,Luxe
+1650,3300000,Iberie,192,3,2,64,construction neuve,Luxe
+1651,1275000,Souani,102,3,2,34,moins de 5 ans,normal
+1652,330000,Centre,50,2,1,25,plus de 5 ans,simple
+1654,1272000,Malabata,106,3,2,35.33333333,moins de 5 ans,normal
+1655,1300000,Centre,90,2,1,45,moins de 5 ans,normal
+1656,1360000,Centre,139,3,2,46.33333333,moins de 5 ans,normal
+1657,1488000,Malabata,124,3,2,41.33333333,construction neuve,Luxe
+1658,1602000,Centre,91,2,1,45.5,construction neuve,Luxe
+1659,1500000,Centre,65,2,1,32.5,construction neuve,Luxe
+1660,2400000,Moujahidine,161,3,2,53.66666667,construction neuve,Luxe
+1661,350000,Jirrari,56,2,1,28,plus de 5 ans,simple
+1662,980000,Malabata,82,2,1,41,moins de 5 ans,normal
+1663,400000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+1664,1000000,Port Tanger ville,60,2,1,30,moins de 5 ans,normal
+1665,1200000,Iberie,93,2,1,46.5,moins de 5 ans,normal
+1666,1500000,Val Fleuri,121,3,2,40.33333333,construction neuve,Luxe
+1667,1650000,Malabata,87,2,1,43.5,construction neuve,Luxe
+1668,400000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+1669,1248000,Centre,104,3,2,34.66666667,moins de 5 ans,normal
+1670,1350000,Centre,155,3,2,51.66666667,moins de 5 ans,normal
+1671,996000,Malabata,83,2,1,41.5,moins de 5 ans,normal
+1672,2700000,Centre,163,3,2,54.33333333,construction neuve,Luxe
+1673,1580000,Centre,102,3,2,34,construction neuve,Luxe
+1674,1760000,Malabata,106,3,2,35.33333333,construction neuve,Luxe
+1675,900000,Ben Dibane,70,2,1,35,moins de 5 ans,normal
+1676,3200000,Iberie,192,3,2,64,construction neuve,Luxe
+1677,1462000,Iberie,86,2,1,43,construction neuve,Luxe
+1678,1850000,Centre,100,2,1,50,construction neuve,Luxe
+1679,2350000,Centre,151,3,2,50.33333333,construction neuve,Luxe
+1680,2500000,Centre,172,3,2,57.33333333,construction neuve,Luxe
+1681,920000,Centre,98,2,1,49,moins de 5 ans,normal
+1682,450000,Branes 1,60,2,1,30,plus de 5 ans,simple
+1683,850000,Centre,110,3,2,36.66666667,moins de 5 ans,normal
+1685,1224000,Malabata,102,3,2,34,moins de 5 ans,normal
+1686,680000,Mesnana,97,2,1,48.5,moins de 5 ans,normal
+1688,850000,Msala,80,2,1,40,moins de 5 ans,normal
+1689,1600000,Centre,97,2,1,48.5,construction neuve,Luxe
+1690,2624000,Iberie,128,3,2,42.66666667,construction neuve,Luxe
+1691,1891000,Iberie,122,3,2,40.66666667,construction neuve,Luxe
+1692,3650000,Iberie,192,3,2,64,construction neuve,Luxe
+1693,3650000,Iberie,220,3,2,73.33333333,construction neuve,Luxe
+1694,972000,Centre,81,2,1,40.5,moins de 5 ans,normal
+1695,660000,M'Nar,96,2,1,48,moins de 5 ans,normal
+1697,996000,Malabata,83,2,1,41.5,moins de 5 ans,normal
+1698,1380000,Malabata,115,3,2,38.33333333,moins de 5 ans,normal
+1699,1480000,Centre,124,3,2,41.33333333,construction neuve,Luxe
+1700,984000,Malabata,82,2,1,41,moins de 5 ans,normal
+1701,1260000,Malabata,105,3,2,35,moins de 5 ans,normal
+1703,430000,Centre,55,2,1,27.5,plus de 5 ans,simple
+1704,1488000,Malabata,124,3,2,41.33333333,construction neuve,Luxe
+1705,1150000,Centre,80,2,1,40,moins de 5 ans,normal
+1706,2496000,Iberie,128,3,2,42.66666667,construction neuve,Luxe
+1707,1750000,Msala,124,3,2,41.33333333,construction neuve,Luxe
+1708,920000,Tanja Balia,102,3,2,34,moins de 5 ans,normal
+1709,3600000,M'Nar,124,3,2,41.33333333,construction neuve,Luxe
+1710,570000,Mesnana,62,2,1,31,plus de 5 ans,simple
+1711,1590000,Centre,145,3,2,48.33333333,construction neuve,Luxe
+1712,2496000,Iberie,128,3,2,42.66666667,construction neuve,Luxe
+1713,1030000,Centre,85,2,1,42.5,moins de 5 ans,normal
+1714,1430000,Castilla,144,3,2,48,moins de 5 ans,normal
+1715,900000,Mghogha,114,3,2,38,moins de 5 ans,normal
+1716,900000,Mesnana,94,2,1,47,moins de 5 ans,normal
+1717,1513250,Castilla,162,3,2,54,construction neuve,Luxe
+1718,1620000,Castilla,158,3,2,52.66666667,construction neuve,Luxe
+1719,1760000,Castilla,182,3,2,60.66666667,construction neuve,Luxe
+1720,960000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+1721,1730000,Castilla,175,3,2,58.33333333,construction neuve,Luxe
+1722,1295000,Castilla,155,3,2,51.66666667,moins de 5 ans,normal
+1723,800000,Mesnana,80,2,1,40,moins de 5 ans,normal
+1724,2640000,Ahlane,100,2,1,50,construction neuve,Luxe
+1725,750000,M'Nar,62,2,1,31,moins de 5 ans,normal
+1726,3050000,Marchane,194,3,2,64.66666667,construction neuve,Luxe
+1728,1750000,Iberie,125,3,2,41.66666667,construction neuve,Luxe
+1729,660000,Centre,57,2,1,28.5,moins de 5 ans,normal
+1730,1700000,Achakar,146,3,2,48.66666667,construction neuve,Luxe
+1731,1700000,Centre,104,3,2,34.66666667,construction neuve,Luxe
+1733,1950000,Iberie,120,3,2,40,construction neuve,Luxe
+1734,1310000,Marchane,131,3,2,43.66666667,moins de 5 ans,normal
+1737,1125000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+1738,1190000,Centre,106,3,2,35.33333333,moins de 5 ans,normal
+1739,2290000,Centre,124,3,2,41.33333333,construction neuve,Luxe
+1740,2600000,Jbel Kbir,129,3,2,43,construction neuve,Luxe
+1742,1780000,Iberie,132,3,2,44,construction neuve,Luxe
+1744,720000,Centre,80,2,1,40,moins de 5 ans,normal
+1745,1490000,Tanja Balia,121,3,2,40.33333333,construction neuve,Luxe
+1746,1188000,Malabata,99,2,1,49.5,moins de 5 ans,normal
+1747,1248000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+1748,1020000,Malabata,85,2,1,42.5,moins de 5 ans,normal
+1749,1488000,Centre,124,3,2,41.33333333,construction neuve,Luxe
+1750,1500000,Branes 2,108,3,2,36,construction neuve,Luxe
+1751,1610000,Malabata,140,3,2,46.66666667,construction neuve,Luxe
+1752,1464000,Malabata,122,3,2,40.66666667,construction neuve,Luxe
+1753,750000,M'Nar,62,2,1,31,moins de 5 ans,normal
+1754,2040000,Centre,120,3,2,40,construction neuve,Luxe
+1755,1600000,Centre,122,3,2,40.66666667,construction neuve,Luxe
+1756,2200000,Centre,155,3,2,51.66666667,construction neuve,Luxe
+1757,2600000,Centre,155,3,2,51.66666667,construction neuve,Luxe
+1758,3059000,Iberie,176,3,2,58.66666667,construction neuve,Luxe
+1759,1776000,Marchane,170,3,2,56.66666667,construction neuve,Luxe
+1760,2907000,Iberie,153,3,2,51,construction neuve,Luxe
+1761,1620000,Centre,97,2,1,48.5,construction neuve,Luxe
+1762,2346000,Centre,138,3,2,46,construction neuve,Luxe
+1763,2487800,Centre,194,3,2,64.66666667,construction neuve,Luxe
+1764,790000,Moujahidine,79,2,1,39.5,moins de 5 ans,normal
+1765,1150000,Iberie,93,2,1,46.5,moins de 5 ans,normal
+1767,3800000,Iberie,229,3,2,76.33333333,construction neuve,Luxe
+1768,1450000,Centre,163,3,2,54.33333333,moins de 5 ans,normal
+1769,1400000,Branes 2,100,2,1,50,moins de 5 ans,normal
+1770,1460000,Centre,163,3,2,54.33333333,construction neuve,Luxe
+1771,980000,Tanja Balia,82,2,1,41,moins de 5 ans,normal
+1772,690000,Moujahidine,66,2,1,33,moins de 5 ans,normal
+1773,760000,Moujahidine,87,2,1,43.5,moins de 5 ans,normal
+1774,2900000,Malabata,170,3,2,56.66666667,construction neuve,Luxe
+1775,1500000,Centre,67,2,1,33.5,construction neuve,Luxe
+1776,1080000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+1777,2485000,Iberie,113,3,2,37.66666667,construction neuve,Luxe
+1778,2300000,Centre,115,3,2,38.33333333,construction neuve,Luxe
+1779,1800000,Centre,124,3,2,41.33333333,construction neuve,Luxe
+1780,1280000,Centre,70,2,1,35,moins de 5 ans,normal
+1781,720000,Centre,84,2,1,42,moins de 5 ans,normal
+1782,980000,Malabata,82,2,1,41,moins de 5 ans,normal
+1783,1426000,Malabata,124,3,2,41.33333333,moins de 5 ans,normal
+1784,580000,Bir Chifa,65,2,1,32.5,moins de 5 ans,normal
+1785,1320000,Moujahidine,95,2,1,47.5,moins de 5 ans,normal
+1786,1080000,Centre,103,3,2,34.33333333,moins de 5 ans,normal
+1787,984000,Malabata,82,2,1,41,moins de 5 ans,normal
+1788,900000,Moujahidine,79,2,1,39.5,moins de 5 ans,normal
+1789,1400000,Malabata,92,2,1,46,moins de 5 ans,normal
+1790,1180000,Ahlane,100,2,1,50,moins de 5 ans,normal
+1791,490000,Mesnana,66,2,1,33,plus de 5 ans,simple
+1792,900000,Ben Dibane,147,3,2,49,moins de 5 ans,normal
+1793,650000,Tanja Balia,60,2,1,30,moins de 5 ans,normal
+1794,1350000,Jirrari,60,2,1,30,moins de 5 ans,normal
+1795,984000,Centre,82,2,1,41,moins de 5 ans,normal
+1796,984000,Malabata,82,2,1,41,moins de 5 ans,normal
+1798,1950000,Iberie,92,2,1,46,construction neuve,Luxe
+1799,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+1800,1207500,Malabata,105,3,2,35,moins de 5 ans,normal
+1801,943000,Malabata,82,2,1,41,moins de 5 ans,normal
+1802,1495000,Malabata,130,3,2,43.33333333,construction neuve,Luxe
+1803,940000,Centre,82,2,1,41,moins de 5 ans,normal
+1804,1250000,Malabata,55,2,1,27.5,moins de 5 ans,normal
+1805,1322500,Centre,115,3,2,38.33333333,moins de 5 ans,normal
+1806,1196000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+1807,1139000,Malabata,99,2,1,49.5,moins de 5 ans,normal
+1808,1198000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+1809,1668000,Centre,139,3,2,46.33333333,construction neuve,Luxe
+1810,600000,Val Fleuri,90,2,1,45,moins de 5 ans,normal
+1811,1219000,Malabata,106,3,2,35.33333333,moins de 5 ans,normal
+1812,1196000,Centre,104,3,2,34.66666667,moins de 5 ans,normal
+1813,1850000,Centre,125,3,2,41.66666667,construction neuve,Luxe
+1814,650000,Mesnana,88,2,1,44,moins de 5 ans,normal
+1815,430000,Mghogha,67,2,1,33.5,plus de 5 ans,simple
+1816,930000,Branes 2,101,3,2,33.66666667,moins de 5 ans,normal
+1817,960000,Val Fleuri,115,3,2,38.33333333,moins de 5 ans,normal
+1818,950000,Val Fleuri,115,3,2,38.33333333,moins de 5 ans,normal
+1819,800000,Val Fleuri,74,2,1,37,moins de 5 ans,normal
+1820,1450000,Centre,124,3,2,41.33333333,moins de 5 ans,normal
+1821,943000,Centre,82,2,1,41,moins de 5 ans,normal
+1822,1720000,Centre,135,3,2,45,construction neuve,Luxe
+1823,920000,Tanja Balia,77,2,1,38.5,moins de 5 ans,normal
+1824,1020000,Malabata,100,2,1,50,moins de 5 ans,normal
+1825,1127000,Malabata,98,2,1,49,moins de 5 ans,normal
+1826,790000,Ben Dibane,79,2,1,39.5,moins de 5 ans,normal
+1828,1050000,Centre,94,2,1,47,moins de 5 ans,normal
+1829,350000,Mghogha,50,2,1,25,plus de 5 ans,simple
+1830,1170000,Malabata,102,3,2,34,moins de 5 ans,normal
+1831,1092500,Malabata,95,2,1,47.5,moins de 5 ans,normal
+1832,370000,Centre,50,2,1,25,plus de 5 ans,simple
+1833,2300000,Castilla,205,3,2,68.33333333,construction neuve,Luxe
+1834,3100000,Val Fleuri,231,3,2,77,construction neuve,Luxe
+1835,1495000,Malabata,130,3,2,43.33333333,construction neuve,Luxe
+1836,1850000,Centre,230,3,2,76.66666667,construction neuve,Luxe
+1837,3000000,Malabata,129,3,2,43,construction neuve,Luxe
+1838,1550000,Centre,105,3,2,35,construction neuve,Luxe
+1839,3396000,Malabata,134,3,2,44.66666667,construction neuve,Luxe
+1840,1242000,Malabata,108,3,2,36,moins de 5 ans,normal
+1841,2470000,Malabata,130,3,2,43.33333333,construction neuve,Luxe
+1842,1403000,Malabata,128,3,2,42.66666667,moins de 5 ans,normal
+1843,1115500,Malabata,97,2,1,48.5,moins de 5 ans,normal
+1844,1437500,Malabata,125,3,2,41.66666667,moins de 5 ans,normal
+1845,1184500,Centre,103,3,2,34.33333333,moins de 5 ans,normal
+1846,680000,Souani,80,2,1,40,moins de 5 ans,normal
+1847,2771000,Marchane,163,3,2,54.33333333,construction neuve,Luxe
+1848,550000,Centre,62,2,1,31,plus de 5 ans,simple
+1849,2600000,Val Fleuri,235,3,2,78.33333333,construction neuve,Luxe
+1850,2400000,Centre,137,3,2,45.66666667,construction neuve,Luxe
+1851,1207500,Centre,105,3,2,35,moins de 5 ans,normal
+1852,3600000,Centre,250,3,2,83.33333333,construction neuve,Luxe
+1853,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+1854,2150000,Malabata,118,3,2,39.33333333,construction neuve,Luxe
+1855,1400000,Centre,127,3,2,42.33333333,moins de 5 ans,normal
+1856,1150000,Centre,80,2,1,40,moins de 5 ans,normal
+1857,1850000,Malabata,96,2,1,48,construction neuve,Luxe
+1858,1104000,Centre,96,2,1,48,moins de 5 ans,normal
+1859,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+1860,931500,Malabata,81,2,1,40.5,moins de 5 ans,normal
+1861,440000,Malabata,54,2,1,27,plus de 5 ans,simple
+1862,900000,Branes 1,79,2,1,39.5,moins de 5 ans,normal
+1863,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+1864,820000,Mesnana,111,3,2,37,moins de 5 ans,normal
+1865,1000000,Moujahidine,90,2,1,45,moins de 5 ans,normal
+1866,1800000,Castilla,143,3,2,47.66666667,construction neuve,Luxe
+1867,440000,Centre,54,2,1,27,plus de 5 ans,simple
+1868,640000,Moujahidine,64,2,1,32,moins de 5 ans,normal
+1869,2200000,Castilla,207,3,2,69,construction neuve,Luxe
+1870,300000,Achakar,60,2,1,30,plus de 5 ans,simple
+1871,1437500,Val Fleuri,125,3,2,41.66666667,moins de 5 ans,normal
+1872,931500,Castilla,81,2,1,40.5,moins de 5 ans,normal
+1873,1340000,Centre,106,3,2,35.33333333,moins de 5 ans,normal
+1874,1419000,Branes 2,145,3,2,48.33333333,moins de 5 ans,normal
+1875,1320000,Centre,115,3,2,38.33333333,moins de 5 ans,normal
+1876,977500,Malabata,85,2,1,42.5,moins de 5 ans,normal
+1877,1426000,Centre,124,3,2,41.33333333,moins de 5 ans,normal
+1878,1380000,Centre,120,3,2,40,moins de 5 ans,normal
+1879,1100000,Malabata,96,2,1,48,moins de 5 ans,normal
+1880,440000,Centre,54,2,1,27,plus de 5 ans,simple
+1881,940000,Ahlane,86,2,1,43,moins de 5 ans,normal
+1882,1450000,Ahlane,108,3,2,36,moins de 5 ans,normal
+1883,1350000,Centre,112,3,2,37.33333333,moins de 5 ans,normal
+1884,1100000,Moujahidine,98,2,1,49,moins de 5 ans,normal
+1885,440000,Malabata,54,2,1,27,plus de 5 ans,simple
+1886,1138500,Centre,99,2,1,49.5,moins de 5 ans,normal
+1887,450000,Malabata,54,2,1,27,plus de 5 ans,simple
+1888,1380000,Malabata,120,3,2,40,moins de 5 ans,normal
+1889,1207500,Malabata,105,3,2,35,moins de 5 ans,normal
+1890,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+1891,931500,Centre,81,2,1,40.5,moins de 5 ans,normal
+1892,954500,Malabata,83,2,1,41.5,moins de 5 ans,normal
+1893,450000,Malabata,54,2,1,27,plus de 5 ans,simple
+1894,1138500,Malabata,99,2,1,49.5,moins de 5 ans,normal
+1895,930000,Malabata,81,2,1,40.5,moins de 5 ans,normal
+1896,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+1897,600000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+1898,450000,Centre,54,2,1,27,plus de 5 ans,simple
+1899,930000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+1900,1656000,Malabata,144,3,2,48,construction neuve,Luxe
+1901,1050000,Casabarata,96,2,1,48,moins de 5 ans,normal
+1902,590000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1903,1080000,Tanja Balia,90,2,1,45,moins de 5 ans,normal
+1904,3200000,Centre,150,3,2,50,construction neuve,Luxe
+1905,1800000,Centre,89,2,1,44.5,construction neuve,Luxe
+1906,2150000,Centre,136,3,2,45.33333333,construction neuve,Luxe
+1907,840000,Tanja Balia,70,2,1,35,moins de 5 ans,normal
+1908,1625000,Centre,125,3,2,41.66666667,construction neuve,Luxe
+1909,920000,Malabata,80,2,1,40,moins de 5 ans,normal
+1910,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+1911,2196000,Castilla,183,3,2,61,construction neuve,Luxe
+1912,2600000,Rmilat,145,3,2,48.33333333,construction neuve,Luxe
+1913,2300000,Centre,185,3,2,61.66666667,construction neuve,Luxe
+1914,1600000,Castilla,152,3,2,50.66666667,construction neuve,Luxe
+1915,1421000,Centre,58,2,1,29,moins de 5 ans,normal
+1916,850000,Moujahidine,86,2,1,43,moins de 5 ans,normal
+1917,450000,Malabata,55,2,1,27.5,plus de 5 ans,simple
+1918,1150000,Ahlane,80,2,1,40,moins de 5 ans,normal
+1919,4000000,Jbel Kbir,189,3,2,63,construction neuve,Luxe
+1920,1800000,Iberie,147,3,2,49,construction neuve,Luxe
+1921,700000,Val Fleuri,50,2,1,25,moins de 5 ans,normal
+1922,670000,Tanja Balia,60,2,1,30,moins de 5 ans,normal
+1923,1104000,Malabata,96,2,1,48,moins de 5 ans,normal
+1924,931500,Malabata,81,2,1,40.5,moins de 5 ans,normal
+1925,2500000,Iberie,128,3,2,42.66666667,construction neuve,Luxe
+1926,1280000,Centre,125,3,2,41.66666667,moins de 5 ans,normal
+1927,1650000,Centre,53,2,1,26.5,construction neuve,Luxe
+1928,210000,Mghogha,58,2,1,29,plus de 5 ans,simple
+1929,1800000,Castilla,143,3,2,47.66666667,construction neuve,Luxe
+1930,900000,Malabata,79,2,1,39.5,moins de 5 ans,normal
+1931,1350000,Centre,112,3,2,37.33333333,moins de 5 ans,normal
+1932,450000,Malabata,56,2,1,28,plus de 5 ans,simple
+1933,920000,Malabata,80,2,1,40,moins de 5 ans,normal
+1934,1080000,Tanja Balia,94,2,1,47,moins de 5 ans,normal
+1935,900000,Malabata,80,2,1,40,moins de 5 ans,normal
+1936,920000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+1937,1115000,Malabata,97,2,1,48.5,moins de 5 ans,normal
+1938,2100000,Centre,150,3,2,50,construction neuve,Luxe
+1939,3700000,Iberie,232,3,2,77.33333333,construction neuve,Luxe
+1940,2400000,Malabata,206,3,2,68.66666667,construction neuve,Luxe
+1941,3100000,Malabata,143,3,2,47.66666667,construction neuve,Luxe
+1942,2900000,Malabata,145,3,2,48.33333333,construction neuve,Luxe
+1943,1000000,Mesnana,80,2,1,40,moins de 5 ans,normal
+1944,2150000,Iberie,125,3,2,41.66666667,construction neuve,Luxe
+1945,1150000,Centre,82,2,1,41,moins de 5 ans,normal
+1946,1300000,Drissia,93,2,1,46.5,moins de 5 ans,normal
+1947,450000,Centre,55,2,1,27.5,plus de 5 ans,simple
+1948,1200000,Centre,100,2,1,50,moins de 5 ans,normal
+1949,1350000,Castilla,113,3,2,37.66666667,moins de 5 ans,normal
+1950,650000,Rmilat,93,2,1,46.5,moins de 5 ans,normal
+1951,960000,Malabata,80,2,1,40,moins de 5 ans,normal
+1952,850000,Moujahidine,95,2,1,47.5,moins de 5 ans,normal
+1953,594000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1954,1248000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+1955,948000,Malabata,79,2,1,39.5,moins de 5 ans,normal
+1956,1188000,Centre,99,2,1,49.5,moins de 5 ans,normal
+1957,1184500,Centre,103,3,2,34.33333333,moins de 5 ans,normal
+1958,1440000,Centre,120,3,2,40,moins de 5 ans,normal
+1959,1380000,Tanja Balia,115,3,2,38.33333333,moins de 5 ans,normal
+1960,1260000,Centre,105,3,2,35,moins de 5 ans,normal
+1961,1176000,Centre,98,2,1,49,moins de 5 ans,normal
+1962,1152000,Malabata,96,2,1,48,moins de 5 ans,normal
+1963,936000,Malabata,78,2,1,39,moins de 5 ans,normal
+1964,1102000,Malabata,58,2,1,29,moins de 5 ans,normal
+1965,1385000,Moujahidine,94,2,1,47,moins de 5 ans,normal
+1966,1188000,Centre,99,2,1,49.5,moins de 5 ans,normal
+1967,1104000,Centre,96,2,1,48,moins de 5 ans,normal
+1968,936000,Centre,78,2,1,39,moins de 5 ans,normal
+1969,948000,Centre,79,2,1,39.5,moins de 5 ans,normal
+1970,1200000,Ahlane,100,2,1,50,moins de 5 ans,normal
+1971,1188000,Malabata,99,2,1,49.5,moins de 5 ans,normal
+1972,1184500,Malabata,103,3,2,34.33333333,moins de 5 ans,normal
+1973,1164000,Malabata,97,2,1,48.5,moins de 5 ans,normal
+1974,1152000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+1975,960000,Malabata,80,2,1,40,moins de 5 ans,normal
+1976,1370000,Centre,115,3,2,38.33333333,moins de 5 ans,normal
+1977,590000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+1978,3246000,Centre,197,3,2,65.66666667,construction neuve,Luxe
+1979,570000,Ahlane,65,2,1,32.5,plus de 5 ans,simple
+1980,580000,Moujahidine,61,2,1,30.5,moins de 5 ans,normal
+1981,1650000,Malabata,80,2,1,40,construction neuve,Luxe
+1982,2000000,Centre,150,3,2,50,construction neuve,Luxe
+1983,500000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+1984,1176000,Tanja Balia,98,2,1,49,moins de 5 ans,normal
+1985,1173000,Tanja Balia,102,3,2,34,moins de 5 ans,normal
+1986,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+1987,1242000,Tanja Balia,108,3,2,36,moins de 5 ans,normal
+1988,984000,Tanja Balia,82,2,1,41,moins de 5 ans,normal
+1989,1440000,Malabata,120,3,2,40,moins de 5 ans,normal
+1990,828000,Tanja Balia,72,2,1,36,moins de 5 ans,normal
+1991,1184500,Malabata,103,3,2,34.33333333,moins de 5 ans,normal
+1992,960000,Centre,80,2,1,40,moins de 5 ans,normal
+1993,2700000,Malabata,105,3,2,35,construction neuve,Luxe
+1994,1440000,Ahlane,111,3,2,37,moins de 5 ans,normal
+1995,750000,Moujahidine,69,2,1,34.5,moins de 5 ans,normal
+1997,1176000,Tanja Balia,98,2,1,49,moins de 5 ans,normal
+1998,450000,Malabata,55,2,1,27.5,plus de 5 ans,simple
+1999,830000,Centre,72,2,1,36,moins de 5 ans,normal
+2000,960000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+2001,1242000,Malabata,108,3,2,36,moins de 5 ans,normal
+2002,1184500,Tanja Balia,103,3,2,34.33333333,moins de 5 ans,normal
+2003,828000,Tanja Balia,72,2,1,36,moins de 5 ans,normal
+2004,1242000,Centre,108,3,2,36,moins de 5 ans,normal
+2005,630000,Moujahidine,61,2,1,30.5,moins de 5 ans,normal
+2006,970000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+2007,1300000,Malabata,108,3,2,36,moins de 5 ans,normal
+2008,1270000,Centre,106,3,2,35.33333333,moins de 5 ans,normal
+2009,940000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2010,940000,Malabata,79,2,1,39.5,moins de 5 ans,normal
+2011,450000,Malabata,53,2,1,26.5,plus de 5 ans,simple
+2012,1160000,Centre,97,2,1,48.5,moins de 5 ans,normal
+2013,3500000,Malabata,135,3,2,45,construction neuve,Luxe
+2014,1989000,Drissia,153,3,2,51,construction neuve,Luxe
+2015,550000,Val Fleuri,57,2,1,28.5,plus de 5 ans,simple
+2016,2700000,Centre,140,3,2,46.66666667,construction neuve,Luxe
+2017,2000000,Centre,104,3,2,34.66666667,construction neuve,Luxe
+2018,1200000,Centre,123,3,2,41,moins de 5 ans,normal
+2019,1500000,Marchane,92,2,1,46,construction neuve,Luxe
+2020,1500000,Moujahidine,130,3,2,43.33333333,construction neuve,Luxe
+2021,1320000,Centre,95,2,1,47.5,moins de 5 ans,normal
+2023,1650000,Centre,108,3,2,36,construction neuve,Luxe
+2024,1000000,Ahlane,95,2,1,47.5,moins de 5 ans,normal
+2025,450000,Centre,56,2,1,28,plus de 5 ans,simple
+2026,450000,Malabata,54,2,1,27,plus de 5 ans,simple
+2027,960000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+2028,950000,Malabata,79,2,1,39.5,moins de 5 ans,normal
+2029,2000000,Centre,135,3,2,45,construction neuve,Luxe
+2030,1200000,Mesnana,94,2,1,47,moins de 5 ans,normal
+2031,450000,Centre,55,2,1,27.5,plus de 5 ans,simple
+2032,970000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2033,450000,Centre,55,2,1,27.5,plus de 5 ans,simple
+2034,1850000,Centre,106,3,2,35.33333333,construction neuve,Luxe
+2035,1350000,Centre,114,3,2,38,moins de 5 ans,normal
+2036,1550000,Malabata,81,2,1,40.5,construction neuve,Luxe
+2037,450000,Malabata,54,2,1,27,plus de 5 ans,simple
+2038,1160000,Tanja Balia,97,2,1,48.5,moins de 5 ans,normal
+2039,940000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2040,1152000,Centre,96,2,1,48,moins de 5 ans,normal
+2041,924000,Centre,77,2,1,38.5,moins de 5 ans,normal
+2042,1260000,Malabata,105,3,2,35,moins de 5 ans,normal
+2043,1152000,Malabata,96,2,1,48,moins de 5 ans,normal
+2044,936000,Centre,78,2,1,39,moins de 5 ans,normal
+2045,500000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+2046,450000,Malabata,55,2,1,27.5,plus de 5 ans,simple
+2047,594000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+2048,1350000,Centre,70,2,1,35,moins de 5 ans,normal
+2049,1350000,Centre,70,2,1,35,moins de 5 ans,normal
+2050,1152000,Malabata,96,2,1,48,moins de 5 ans,normal
+2051,936000,Malabata,78,2,1,39,moins de 5 ans,normal
+2052,1880000,Malabata,99,2,1,49.5,construction neuve,Luxe
+2053,1200000,Malabata,69,2,1,34.5,moins de 5 ans,normal
+2054,3600000,M'Nar,130,3,2,43.33333333,construction neuve,Luxe
+2055,1300000,Centre,66,2,1,33,moins de 5 ans,normal
+2056,1200000,Val Fleuri,89,2,1,44.5,moins de 5 ans,normal
+2057,972000,Malabata,81,2,1,40.5,moins de 5 ans,normal
+2058,936000,Malabata,78,2,1,39,moins de 5 ans,normal
+2059,1152000,Malabata,96,2,1,48,moins de 5 ans,normal
+2060,960000,Val Fleuri,96,2,1,48,moins de 5 ans,normal
+2061,936000,Centre,78,2,1,39,moins de 5 ans,normal
+2062,310000,Mghogha,50,2,1,25,plus de 5 ans,simple
+2063,1650000,Tanja Balia,123,3,2,41,construction neuve,Luxe
+2064,1350000,Malabata,67,2,1,33.5,moins de 5 ans,normal
+2065,2050000,Centre,135,3,2,45,construction neuve,Luxe
+2066,2100000,Centre,160,3,2,53.33333333,construction neuve,Luxe
+2067,1152000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2068,936000,Centre,78,2,1,39,moins de 5 ans,normal
+2070,400000,Mesnana,60,2,1,30,plus de 5 ans,simple
+2071,1500000,M'Nar,125,3,2,41.66666667,construction neuve,Luxe
+2072,1320000,Tanja Balia,110,3,2,36.66666667,moins de 5 ans,normal
+2073,850000,Mesnana,100,2,1,50,moins de 5 ans,normal
+2074,1200000,Mesnana,120,3,2,40,moins de 5 ans,normal
+2075,900000,Malabata,73,2,1,36.5,moins de 5 ans,normal
+2076,3500000,Centre,126,3,2,42,construction neuve,Luxe
+2078,2700000,Marchane,234,3,2,78,construction neuve,Luxe
+2079,1520000,Malabata,76,2,1,38,construction neuve,Luxe
+2080,1350000,Malabata,68,2,1,34,moins de 5 ans,normal
+2081,3200000,Achakar,174,3,2,58,construction neuve,Luxe
+2082,1650000,Malabata,102,3,2,34,construction neuve,Luxe
+2083,1500000,Centre,58,2,1,29,construction neuve,Luxe
+2084,1200000,Centre,62,2,1,31,moins de 5 ans,normal
+2085,1800000,Centre,90,2,1,45,construction neuve,Luxe
+2086,1854000,Charf,103,3,2,34.33333333,construction neuve,Luxe
+2087,1550000,Centre,119,3,2,39.66666667,construction neuve,Luxe
+2088,936000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+2089,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+2090,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+2091,960000,Moujahidine,115,3,2,38.33333333,moins de 5 ans,normal
+2092,3500000,Achakar,173,3,2,57.66666667,construction neuve,Luxe
+2093,1970000,Iberie,122,3,2,40.66666667,construction neuve,Luxe
+2094,335000,Achakar,50,2,1,25,plus de 5 ans,simple
+2095,1200000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+2096,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+2097,450000,Tanja Balia,56,2,1,28,plus de 5 ans,simple
+2098,2500000,Malabata,137,3,2,45.66666667,construction neuve,Luxe
+2099,475000,Mesnana,53,2,1,26.5,plus de 5 ans,simple
+2100,1550000,M'Nar,86,2,1,43,construction neuve,Luxe
+2101,450000,Tanja Balia,65,2,1,32.5,plus de 5 ans,simple
+2102,2060000,M'Nar,95,2,1,47.5,construction neuve,Luxe
+2103,858000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+2104,1750000,Iberie,117,3,2,39,construction neuve,Luxe
+2105,2200000,Centre,205,3,2,68.33333333,construction neuve,Luxe
+2106,550000,Mesnana,65,2,1,32.5,plus de 5 ans,simple
+2107,290000,Iberie,60,2,1,30,plus de 5 ans,simple
+2108,1144000,Malabata,104,3,2,34.66666667,moins de 5 ans,normal
+2109,2300000,Marchane,140,3,2,46.66666667,construction neuve,Luxe
+2110,660000,Mesnana,60,2,1,30,moins de 5 ans,normal
+2111,2250000,Iberie,96,2,1,48,construction neuve,Luxe
+2112,1700000,Malabata,63,2,1,31.5,construction neuve,Luxe
+2113,950000,Tanja Balia,76,2,1,38,moins de 5 ans,normal
+2114,1460000,Malabata,91,2,1,45.5,construction neuve,Luxe
+2115,880000,Tanja Balia,80,2,1,40,moins de 5 ans,normal
+2116,1350000,Castilla,151,3,2,50.33333333,moins de 5 ans,normal
+2117,1200000,Centre,93,2,1,46.5,moins de 5 ans,normal
+2118,1056000,Centre,96,2,1,48,moins de 5 ans,normal
+2119,450000,Tanja Balia,55,2,1,27.5,plus de 5 ans,simple
+2120,858000,Centre,78,2,1,39,moins de 5 ans,normal
+2121,1200000,Centre,100,2,1,50,moins de 5 ans,normal
+2122,1200000,Tanja Balia,100,2,1,50,moins de 5 ans,normal
+2123,740000,Mesnana,80,2,1,40,moins de 5 ans,normal
+2124,1700000,Centre,124,3,2,41.33333333,construction neuve,Luxe
+2125,858000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+2126,578000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+2127,561000,Tanja Balia,66,2,1,33,plus de 5 ans,simple
+2128,936000,Centre,78,2,1,39,moins de 5 ans,normal
+2129,1150000,Ahlane,133,3,2,44.33333333,moins de 5 ans,normal
+2131,2000000,Castilla,152,3,2,50.66666667,construction neuve,Luxe
+2132,1430000,Centre,110,3,2,36.66666667,moins de 5 ans,normal
+2133,780000,Centre,71,2,1,35.5,moins de 5 ans,normal
+2134,700000,Centre,55,2,1,27.5,moins de 5 ans,normal
+2135,2200000,Castilla,205,3,2,68.33333333,construction neuve,Luxe
+2136,1150000,Achakar,120,3,2,40,moins de 5 ans,normal
+2137,730000,Mesnana,84,2,1,42,moins de 5 ans,normal
+2138,1200000,Mesnana,94,2,1,47,moins de 5 ans,normal
+2139,3000000,Centre,146,3,2,48.66666667,construction neuve,Luxe
+2140,2000000,Tanja Balia,96,2,1,48,construction neuve,Luxe
+2141,1500000,Centre,135,3,2,45,construction neuve,Luxe
+2142,1050000,Centre,96,2,1,48,moins de 5 ans,normal
+2143,858000,Centre,78,2,1,39,moins de 5 ans,normal
+2145,891000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2146,858000,Centre,78,2,1,39,moins de 5 ans,normal
+2147,242000,Mghogha,52,2,1,26,plus de 5 ans,simple
+2148,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2149,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2150,500000,Branes 1,50,2,1,25,plus de 5 ans,simple
+2151,3000000,Jbel Kbir,150,3,2,50,construction neuve,Luxe
+2152,1300000,Centre,115,3,2,38.33333333,moins de 5 ans,normal
+2154,1180000,Centre,118,3,2,39.33333333,moins de 5 ans,normal
+2155,1040000,Centre,104,3,2,34.66666667,moins de 5 ans,normal
+2156,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2157,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2158,780000,Centre,78,2,1,39,moins de 5 ans,normal
+2159,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2160,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2161,1040000,Tanja Balia,104,3,2,34.66666667,moins de 5 ans,normal
+2162,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2163,780000,Tanja Balia,78,2,1,39,moins de 5 ans,normal
+2164,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2165,1040000,Centre,104,3,2,34.66666667,moins de 5 ans,normal
+2166,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2167,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2168,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2169,780000,Centre,78,2,1,39,moins de 5 ans,normal
+2170,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2171,780000,Centre,78,2,1,39,moins de 5 ans,normal
+2172,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2173,550000,Moujahidine,57,2,1,28.5,plus de 5 ans,simple
+2174,1250000,Tanja Balia,125,3,2,41.66666667,moins de 5 ans,normal
+2175,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2176,810000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+2177,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2178,1410000,Centre,141,3,2,47,moins de 5 ans,normal
+2179,1250000,Centre,125,3,2,41.66666667,moins de 5 ans,normal
+2180,1250000,Centre,125,3,2,41.66666667,moins de 5 ans,normal
+2181,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2182,810000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+2183,2900000,Marchane,175,3,2,58.33333333,construction neuve,Luxe
+2185,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2186,790000,Centre,79,2,1,39.5,moins de 5 ans,normal
+2187,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2188,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2189,810000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+2190,1190000,Castilla,119,3,2,39.66666667,moins de 5 ans,normal
+2191,1800000,Jbel Kbir,300,4,2,75,construction neuve,Luxe
+2192,3200000,Iberie,191,3,2,63.66666667,construction neuve,Luxe
+2193,3840000,Iberie,192,3,2,64,construction neuve,Luxe
+2194,2450000,Centre,175,3,2,58.33333333,construction neuve,Luxe
+2195,690000,Moujahidine,56,2,1,28,moins de 5 ans,normal
+2196,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2197,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2198,1124000,Centre,105,3,2,35,moins de 5 ans,normal
+2199,1730000,Centre,147,3,2,49,construction neuve,Luxe
+2200,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2201,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2202,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2203,960000,Centre,96,2,1,48,moins de 5 ans,normal
+2204,790000,Centre,79,2,1,39.5,moins de 5 ans,normal
+2205,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2206,810000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2207,1100000,Castilla,81,2,1,40.5,moins de 5 ans,normal
+2208,1750000,Malabata,85,2,1,42.5,construction neuve,Luxe
+2209,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2210,810000,Tanja Balia,81,2,1,40.5,moins de 5 ans,normal
+2212,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2213,3500000,Iberie,205,3,2,68.33333333,construction neuve,Luxe
+2214,3300000,Malabata,149,3,2,49.66666667,construction neuve,Luxe
+2215,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2216,870000,Ahlane,85,2,1,42.5,moins de 5 ans,normal
+2217,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2218,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2219,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2220,790000,Centre,79,2,1,39.5,moins de 5 ans,normal
+2221,750000,Centre,75,2,1,37.5,moins de 5 ans,normal
+2222,3500000,Jirrari,126,3,2,42,construction neuve,Luxe
+2223,1550000,Branes 1,108,3,2,36,construction neuve,Luxe
+2224,1250000,Castilla,93,2,1,46.5,moins de 5 ans,normal
+2225,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2226,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2227,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2228,594000,Tanja Balia,66,2,1,33,moins de 5 ans,normal
+2229,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2230,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2231,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2232,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2233,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2234,830000,Tanja Balia,83,2,1,41.5,moins de 5 ans,normal
+2235,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2236,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2237,500000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2238,450000,Tanja Balia,54,2,1,27,plus de 5 ans,simple
+2239,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2240,1290000,Malabata,96,2,1,48,moins de 5 ans,normal
+2241,3500000,Malabata,175,3,2,58.33333333,construction neuve,Luxe
+2242,450000,Mesnana,55,2,1,27.5,plus de 5 ans,simple
+2243,350000,Mesnana,65,2,1,32.5,plus de 5 ans,simple
+2244,550000,Centre,54,2,1,27,plus de 5 ans,simple
+2245,3180000,Iberie,204,3,2,68,construction neuve,Luxe
+2246,850000,Centre,89,2,1,44.5,moins de 5 ans,normal
+2247,820000,Tanja Balia,82,2,1,41,moins de 5 ans,normal
+2248,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2249,750000,Tanja Balia,75,2,1,37.5,moins de 5 ans,normal
+2250,900000,Mesnana,92,2,1,46,moins de 5 ans,normal
+2251,1230000,Centre,95,2,1,47.5,moins de 5 ans,normal
+2252,1700000,Centre,130,3,2,43.33333333,construction neuve,Luxe
+2253,1300000,Achakar,100,2,1,50,moins de 5 ans,normal
+2254,1300000,Centre,105,3,2,35,moins de 5 ans,normal
+2255,450000,Mesnana,61,2,1,30.5,plus de 5 ans,simple
+2256,1150000,Malabata,59,2,1,29.5,moins de 5 ans,normal
+2257,450000,Moujahidine,64,2,1,32,plus de 5 ans,simple
+2258,770000,Ahlane,84,2,1,42,moins de 5 ans,normal
+2259,1200000,Centre,93,2,1,46.5,moins de 5 ans,normal
+2260,960000,Tanja Balia,96,2,1,48,moins de 5 ans,normal
+2261,800000,Ahlane,79,2,1,39.5,moins de 5 ans,normal
+2262,720000,Ahlane,80,2,1,40,moins de 5 ans,normal
+2263,720000,Centre,81,2,1,40.5,moins de 5 ans,normal
+2264,1200000,Moujahidine,109,3,2,36.33333333,moins de 5 ans,normal
+2265,1150000,Achakar,84,2,1,42,moins de 5 ans,normal
+2266,2200000,Centre,162,3,2,54,construction neuve,Luxe
+2267,750000,Benkirane,130,3,2,43.33333333,moins de 5 ans,normal
+2268,1730000,Centre,104,3,2,34.66666667,construction neuve,Luxe
+2269,760000,Centre,73,2,1,36.5,moins de 5 ans,normal
+2270,780000,Centre,79,2,1,39.5,moins de 5 ans,normal
+2271,850000,Mesnana,69,2,1,34.5,moins de 5 ans,normal
+2272,550000,Moujahidine,90,2,1,45,plus de 5 ans,simple
+2273,800000,Centre,86,2,1,43,moins de 5 ans,normal
+2274,760000,Centre,92,2,1,46,moins de 5 ans,normal
+2275,2350000,Iberie,147,3,2,49,construction neuve,Luxe
+2276,2770000,Malabata,149,3,2,49.66666667,construction neuve,Luxe
+2277,950000,Branes 2,101,3,2,33.66666667,moins de 5 ans,normal
+2278,550000,Mghogha,57,2,1,28.5,plus de 5 ans,simple
+2279,1200000,Mesnana,94,2,1,47,moins de 5 ans,normal
+2280,900000,Val Fleuri,93,2,1,46.5,moins de 5 ans,normal
+2281,1550000,Centre,128,3,2,42.66666667,construction neuve,Luxe
+2282,1200000,Centre,93,2,1,46.5,moins de 5 ans,normal
+2283,4000000,Centre,130,3,2,43.33333333,construction neuve,Luxe
+2284,1447000,Val Fleuri,160,3,2,53.33333333,moins de 5 ans,normal
+2285,1267500,Mesnana,115,3,2,38.33333333,moins de 5 ans,normal
+2286,860000,Centre,52,2,1,26,moins de 5 ans,normal
+2287,1800000,Centre,184,3,2,61.33333333,construction neuve,Luxe
+2288,260000,Mghogha,51,2,1,25.5,plus de 5 ans,simple
+2290,700000,Ahlane,91,2,1,45.5,moins de 5 ans,normal
+2291,339000,Achakar,50,2,1,25,plus de 5 ans,simple
+2292,800000,Val Fleuri,84,2,1,42,moins de 5 ans,normal
+2293,830000,Ahlane,72,2,1,36,moins de 5 ans,normal
+2294,680000,Ahlane,88,2,1,44,moins de 5 ans,normal
+2295,2200000,Tanja Balia,120,3,2,40,construction neuve,Luxe
+2297,840000,Marchane,80,2,1,40,moins de 5 ans,normal
+2298,1180000,Centre,101,3,2,33.66666667,moins de 5 ans,normal
+2299,4000000,Malabata,160,3,2,53.33333333,construction neuve,Luxe
+2300,1700000,Iberie,92,2,1,46,construction neuve,Luxe
+2301,590000,Centre,70,2,1,35,moins de 5 ans,normal
+2302,860000,Mesnana,80,2,1,40,moins de 5 ans,normal
+2303,450000,Mesnana,50,2,1,25,plus de 5 ans,simple
+2304,1150000,Centre,78,2,1,39,moins de 5 ans,normal
+2305,1850000,Centre,94,2,1,47,construction neuve,Luxe
+2306,1800000,Centre,101,3,2,33.66666667,construction neuve,Luxe
+2307,1350000,Moujahidine,135,3,2,45,moins de 5 ans,normal
+2308,1800000,Centre,110,3,2,36.66666667,construction neuve,Luxe
+2309,550000,Mesnana,56,2,1,28,plus de 5 ans,simple
+2310,520000,Mesnana,67,2,1,33.5,plus de 5 ans,simple
+2311,449900,Moujahidine,70,2,1,35,plus de 5 ans,simple
+2312,1250000,Centre,95,2,1,47.5,moins de 5 ans,normal
+2313,800000,Mesnana,50,2,1,25,moins de 5 ans,normal
+2314,900000,Branes 2,108,3,2,36,moins de 5 ans,normal
+2315,590000,Centre,74,2,1,37,moins de 5 ans,normal
+2317,900000,Centre,80,2,1,40,moins de 5 ans,normal
+2318,720000,Ahlane,90,2,1,45,moins de 5 ans,normal
+2320,500000,Branes 2,60,2,1,30,plus de 5 ans,simple
+2321,1650000,Centre,156,3,2,52,construction neuve,Luxe
+2323,790000,Tanja Balia,79,2,1,39.5,moins de 5 ans,normal
+2324,1840000,Centre,153,3,2,51,construction neuve,Luxe
+2325,3200000,Iberie,207,3,2,69,construction neuve,Luxe
+2326,520000,Centre,80,2,1,40,plus de 5 ans,simple
+2327,520000,Centre,80,2,1,40,plus de 5 ans,simple
+2328,800000,Souani,78,2,1,39,moins de 5 ans,normal
+2329,360000,Mghogha,55,2,1,27.5,plus de 5 ans,simple
+2330,720000,Ahlane,90,2,1,45,moins de 5 ans,normal
+2331,2450000,Marchane,123,3,2,41,construction neuve,Luxe
+2332,2400000,Centre,131,3,2,43.66666667,construction neuve,Luxe
+2333,750000,Mesnana,88,2,1,44,moins de 5 ans,normal
+2334,2500000,Centre,134,3,2,44.66666667,construction neuve,Luxe
+2335,900000,Moujahidine,107,3,2,35.66666667,moins de 5 ans,normal
+2337,1250000,Centre,103,3,2,34.33333333,moins de 5 ans,normal
+2339,1100000,Centre,96,2,1,48,moins de 5 ans,normal
+2340,649000,Mesnana,82,2,1,41,moins de 5 ans,normal
+2341,500000,Moujahidine,50,2,1,25,plus de 5 ans,simple
+2342,850000,Tanja Balia,108,3,2,36,moins de 5 ans,normal
+2343,590000,Centre,70,2,1,35,moins de 5 ans,normal
+2344,594000,Mghogha,58,2,1,29,moins de 5 ans,normal
+2345,1500000,Ahlane,136,3,2,45.33333333,construction neuve,Luxe
+2346,750000,Tanja Balia,73,2,1,36.5,moins de 5 ans,normal
+2347,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+2349,2400000,Malabata,140,3,2,46.66666667,construction neuve,Luxe
+2350,650000,Mesnana,68,2,1,34,moins de 5 ans,normal
+2351,850000,Mesnana,80,2,1,40,moins de 5 ans,normal
+2352,1700000,Malabata,120,3,2,40,construction neuve,Luxe
+2353,380000,Achakar,60,2,1,30,plus de 5 ans,simple
+2354,600000,Benkirane,78,2,1,39,moins de 5 ans,normal
+2355,1750000,Iberie,117,3,2,39,construction neuve,Luxe
+2356,700000,Centre,80,2,1,40,moins de 5 ans,normal
+2357,610000,Jbel Kbir,73,2,1,36.5,moins de 5 ans,normal
+2358,450000,Mesnana,60,2,1,30,plus de 5 ans,simple
+2360,1900000,Malabata,135,3,2,45,construction neuve,Luxe
+2361,950000,Branes 2,88,2,1,44,moins de 5 ans,normal
+2362,900000,Castilla,103,3,2,34.33333333,moins de 5 ans,normal
+2363,2400000,Marchane,137,3,2,45.66666667,construction neuve,Luxe
+2364,700000,Ahlane,95,2,1,47.5,moins de 5 ans,normal
+2365,780000,Branes 1,92,2,1,46,moins de 5 ans,normal
+2366,700000,Branes 2,89,2,1,44.5,moins de 5 ans,normal
+2367,700000,Branes 2,89,2,1,44.5,moins de 5 ans,normal
+2368,900000,Moujahidine,107,3,2,35.66666667,moins de 5 ans,normal
+2369,1350000,Castilla,112,3,2,37.33333333,moins de 5 ans,normal
+2370,1200000,Moujahidine,120,3,2,40,moins de 5 ans,normal
+2371,410000,Mesnana,60,2,1,30,plus de 5 ans,simple
+2372,1089000,Tanja Balia,99,2,1,49.5,moins de 5 ans,normal
+2373,1300000,Tanja Balia,120,3,2,40,moins de 5 ans,normal
+2374,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+2375,620000,Moujahidine,65,2,1,32.5,moins de 5 ans,normal
+2376,1450000,Centre,95,2,1,47.5,moins de 5 ans,normal
+2377,430000,Tanja Balia,60,2,1,30,plus de 5 ans,simple
+2378,670000,Tanja Balia,67,2,1,33.5,moins de 5 ans,normal
+2379,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+2380,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+2381,750000,Tanja Balia,68,2,1,34,moins de 5 ans,normal
+2382,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+2383,570000,Tanja Balia,73,2,1,36.5,plus de 5 ans,simple
+2385,1800000,Centre,156,3,2,52,construction neuve,Luxe
+2386,1450000,Centre,140,3,2,46.66666667,moins de 5 ans,normal
+2388,2100000,Centre,120,3,2,40,construction neuve,Luxe
+2389,550000,Branes 1,55,2,1,27.5,plus de 5 ans,simple
+2390,1880000,Centre,96,2,1,48,construction neuve,Luxe
+2391,1400000,Centre,123,3,2,41,moins de 5 ans,normal
+2392,1800000,Branes 1,197,3,2,65.66666667,construction neuve,Luxe
+2393,380000,Moujahidine,55,2,1,27.5,plus de 5 ans,simple
+2394,1300000,Mesnana,134,3,2,44.66666667,moins de 5 ans,normal
+2395,650000,Mghogha,79,2,1,39.5,moins de 5 ans,normal
+2396,1300000,Msala,144,3,2,48,moins de 5 ans,normal
+2398,820000,Ahlane,79,2,1,39.5,moins de 5 ans,normal
+2399,2560000,Iberie,128,3,2,42.66666667,construction neuve,Luxe
+2400,350000,Centre,60,2,1,30,plus de 5 ans,simple
+2401,700000,Ahlane,70,2,1,35,moins de 5 ans,normal
+2402,2500000,Iberie,198,3,2,66,construction neuve,Luxe
+2403,590000,Branes 1,96,2,1,48,moins de 5 ans,normal
+2404,1960000,Centre,140,3,2,46.66666667,construction neuve,Luxe
+2405,2150000,Centre,155,3,2,51.66666667,construction neuve,Luxe
+2406,1300000,Centre,96,2,1,48,moins de 5 ans,normal
+2407,1800000,Centre,158,3,2,52.66666667,construction neuve,Luxe
+2408,950000,Malabata,62,2,1,31,moins de 5 ans,normal
+2409,440000,Achakar,50,2,1,25,plus de 5 ans,simple
+2410,3100000,Centre,149,3,2,49.66666667,construction neuve,Luxe
+2411,2215000,Iberie,123,3,2,41,construction neuve,Luxe
+2413,3000000,Achakar,174,3,2,58,construction neuve,Luxe
+2414,1900000,Achakar,167,3,2,55.66666667,construction neuve,Luxe

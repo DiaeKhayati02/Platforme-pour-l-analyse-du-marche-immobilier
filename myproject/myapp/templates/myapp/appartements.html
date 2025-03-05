@@ -1,0 +1,214 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Cap Alliance | Consulting et gestion d'immobilier d'entreprise à Tanger.</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="{% static 'myapp/assets/favicon.ico' %}" />
+
+    <!-- Custom Google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet" />
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="{% static 'myapp/css/styles.css' %}" rel="stylesheet">
+    <style>
+        .navbar-brand {
+            animation: fadeInLogo 1s ease-in-out;
+        }
+        .navbar-nav .nav-link {
+            animation: fadeInNav 1s ease-in-out;
+            transition: color 0.3s ease-in-out;
+        }
+        .navbar-nav .nav-link:hover {
+            color: #0056b3;
+        }
+        .dropdown-menu {
+            animation: fadeInDropdown 0.3s ease-in-out;
+        }
+        .dropdown-menu .dropdown-item:hover {
+            background-color: #f8f9fa;
+            color: #007bff;
+        }
+        .navbar-toggler {
+            transition: transform 0.3s ease-in-out;
+        }
+        .navbar-toggler:hover {
+            transform: rotate(90deg);
+        }
+        .navbar-nav {
+            position: relative;
+        }
+        .nav-link.active {
+            color: #0056b3 !important;
+        }
+        .nav-link {
+            position: relative;
+        }
+        .nav-link:after {
+            content: '';
+            display: block;
+            height: 2px;
+            width: 0;
+            background: #0056b3;
+            transition: width 0.3s ease-in-out;
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+        }
+        .nav-link:hover:after,
+        .nav-link.active:after {
+            width: 100%;
+        }
+        .hoverable {
+            display: inline-block;
+            backface-visibility: hidden;
+            vertical-align: middle;
+            position: relative;
+            box-shadow: 0 0 1px rgba(0,0,0,0);
+            transform: translateZ(0);
+            transition-duration: .3s;
+            transition-property: transform;
+        }
+        .hoverable:before {
+            position: absolute;
+            pointer-events: none;
+            z-index: -1;
+            content: '';
+            top: 100%;
+            left: 5%;
+            height: 10px;
+            width: 90%;
+            opacity: 0;
+            background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 80%);
+            transition-duration: 0.3s;
+            transition-property: transform, opacity;
+        }
+        .hoverable:hover, .hoverable:active, .hoverable:focus {
+            transform: translateY(-5px);
+        }
+        .hoverable:hover:before, .hoverable:active:before, .hoverable:focus:before {
+            opacity: 1;
+            transform: translateY(-5px);
+        }
+        @keyframes bounce-animation {
+            16.65% {
+                transform: translateY(8px);
+            }
+            33.3% {
+                transform: translateY(-6px);
+            }
+            49.95% {
+                transform: translateY(4px);
+            }
+            66.6% {
+                transform: translateY(-2px);
+            }
+            83.25% {
+                transform: translateY(1px);
+            }
+            100% {
+                transform: translateY(0);
+            }
+        }
+        .bounce {
+            animation-name: bounce-animation;
+            animation-duration: 2s;
+        }
+        .info-box {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .form-section {
+            margin-bottom: 20px;
+        }
+        .form-section h5 {
+            font-size: 1.2rem;
+        }
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        .form-control {
+            padding: 10px;
+            font-size: 1rem;
+        }
+        .input-group-append .btn {
+            padding: 0 10px;
+        }
+        .alert {
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body class="d-flex flex-column h-100 bg-light">
+    <main class="flex-shrink-0">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
+            <div class="container px-5">
+                <a class="navbar-brand" href="{% url 'myapp:index' %}"><span class="fw-bolder text-primary">CapAlliance</span></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
+                        <li class="nav-item"><a class="nav-link" href="{% url 'myapp:index' %}">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'myapp:show_records' %}">carte</a></li>
+                        <li class="nav-item"><a class="nav-link" target="_blank" href="https://bvawashbf3vz6rxd8sg2ts.streamlit.app/Data_Visualisation">Dashboard</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'myapp:estimer' %}">Estimation du bien</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'myapp:biens' %}">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'myapp:login' %}">Se connecter</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container mt-4">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3 style="margin-left:200px"><strong>Estimer le prix de vente de votre appartement</strong></h3>
+                    <form method="post" class="mt-5">
+                        {% csrf_token %}
+                        {{ form.as_p }}
+                        <button style='margin-left:700px; margin-top:30px; width:150px;' type="submit" class="btn btn-primary">Predict</button>
+                    </form>
+                    {% if form.errors %}
+                        <div class="alert alert-danger mt-5">
+                            {{ form.errors }}
+                        </div>
+                    {% endif %}
+                    {% if prediction %}
+                        <div class="alert alert-success mt-5">
+                            <h3>Resultat</h3>
+                            <p>L'estimation du prix de votre propriété est : <strong>{{ prediction|floatformat:2 }}</strong> Dirham, merci !</p>
+                        </div>
+                    {% else %}
+                        <div class="alert alert-info mt-5">
+                            <p>No prediction made yet.</p>
+                        </div>
+                    {% endif %}
+                </div>
+                <div class="col-md-4" style="margin-top:100px;">
+                    <div class="info-box">
+                        <h4 >Critères d'évaluation <img src="{% static 'myapp/assets/info.png' %} " style="width:25px;"></img></h4>
+                        <p>L'estimation du prix de votre bien repose sur plusieurs critères, y compris la localisation, la superficie, l'état général, et l age de construction.</p>
+                    </div>
+                    <div class="info-box">
+                        <h4>Information <img src="{% static 'myapp/assets/info.png' %} " style="width:25px;"></img></h4>
+                        <p>Pour garantir une bonne estimation , nous utilisons des modèles de machine learning avancés. Ces modèles analysent des données immobilières pour fournir une estimation personnalisée et fiable de la valeur de votre appartement.</p>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

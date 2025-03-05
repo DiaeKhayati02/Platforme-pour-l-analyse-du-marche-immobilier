@@ -1,0 +1,269 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <title>Fixer une Visite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 3rem; /* Agrandir la taille du titre */
+        }
+
+        .form-control {
+            border-radius: 5px; /* Arrondir les coins des champs */
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .form-control:focus {
+            border-color: #007bff;
+            box-shadow: 0 0 10px rgba(0, 123, 255, 0.2);
+            transform: scale(1.02);
+        }
+
+        .form-control:hover {
+            opacity: 1;
+            transform: scale(1.02);
+        }
+
+        .form-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .btn-primary {
+            background-color: #007bff; /* Couleur bleu */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Couleur bleu foncé au survol */
+            transform: scale(1.05);
+        }
+
+        .text-gradient {
+            background-image: linear-gradient(to right, #007bff, #00b050); /* Gradient de couleurs */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent; 
+        }
+
+        .fade-in {
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .input-group-text {
+            background-color: transparent;
+            border: none;
+        }
+
+        .calendar-container {
+            margin-top: 20px;
+        }
+
+        .alert-success {
+            position: relative;
+            top: 10px;
+            right: 10px;
+            z-index: 100;
+            padding: 10px;
+            border-radius: 5px;
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        .alert-success.show {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <section class="bg-light py-5">
+        <div class="container px-5 fade-in">
+            <div class="row gx-5 justify-content-center">
+                <div class="col-xxl-8">
+                    <div class="text-center my-5">
+                        <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">Fixer une Visite</span></h2>
+                        <p class="lead fw-light mb-4">Remplissez le formulaire ci-dessous pour fixer une visite de bien immobilier.</p>
+                        {% if messages %}
+                            {% for message in messages %}
+                                <div class="alert alert-success show" role="alert" id="success-message">
+                                    {{ message }}
+                                </div>
+                            {% endfor %}
+                        {% endif %}
+                        <form method="post" action="{% url 'myapp:fixer_visite' %}" id="visitForm">
+                            {% csrf_token %}
+                            <div class="form-group">
+                                <label for="id_zone">Zone:</label>
+                                {{ form.zone }}
+                            </div>
+
+                            <div class="form-group">
+                                <label for="id_type_bien">Type bien:</label>
+                                {{ form.type_bien }}
+                            </div>
+
+                            <div class="form-group">
+                                <label for="id_etat">Etat:</label>
+                                {{ form.etat }}
+                            </div>
+                            <div class="form-group">
+                                <label for="id_tel">Telephone:</label>
+                                {{ form.telephone }}
+                            </div>
+                            <div class="form-group">
+                                <label for="id_email">Email:</label>
+                                {{ form.email }}
+                            </div>
+                            <div class="form-group">
+                                <label for="id_date_visite">Date Visite:</label>
+                                {{ form.date_visite }}
+                            </div>
+                            <div class="form-group">
+                                <label for="id_lien_bien">lien du bien:</label>
+                                {{ form.lien_bien }}
+                            </div>
+                            <button type="submit" class="btn btn-primary">Envoyer</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+
+          
+<script>
+    $(function() {
+        $("#id_date_visite").datepicker(); 
+    });
+
+    $(document).ready(function() {
+        function updateTypeBienChoices(zone) {
+            if (zone) {
+                $.ajax({
+                    url: '{% url "myapp:get_types_bien" %}',
+                    data: {
+                        'zone': zone
+                    },
+                    success: function(data) {
+                        console.log(data);
+                        var $typeBien = $('#id_type_bien');
+                        $typeBien.empty();
+                        $typeBien.append('<option value="">Sélectionner un type de bien</option>');
+                        if (data.length > 0) {
+                            data.forEach(function (item) {
+                                $typeBien.append(new Option(item[0], item[1]));  // Utiliser item[0] et item[1] pour les valeurs et les labels
+                            });
+                        } else {
+                            $typeBien.append('<option value="">Pas disponible</option>');
+                        }
+                        updateEtatChoices(zone, $('#id_type_bien').val());
+                    }
+                });
+            } else {
+                $('#id_type_bien').empty().append('<option value="">Pas disponible</option>');
+                $('#id_etat').empty().append('<option value="">Pas disponible</option>');
+            }
+        }
+
+        function updateEtatChoices(zone, typeBien) {
+            if (zone && typeBien) {
+                $.ajax({
+                    url: '{% url "myapp:get_etats" %}', 
+                    data: {
+                        'zone': zone,
+                        'type_bien': typeBien
+                    },
+                    success: function(data) {
+                        console.log(data);
+                        var $etat = $('#id_etat');
+                        $etat.empty();
+                        $etat.append('<option value="">Sélectionner une action commerciale</option>');
+                        if (data.length > 0) {
+                            $.each(data, function(index, value) {
+                                $etat.append(new Option(value[0], value[1]));  // Utiliser value[0] et value[1] pour les valeurs et les labels
+                            });
+                        }
+                        
+                        
+                        
+                        else {
+                            $etat.append('<option value="">Pas disponible</option>');
+                        }
+                    }
+                });
+            } else {
+                $('#id_etat').empty().append('<option value="">Pas disponible</option>');
+            }
+        }
+
+        $('#id_zone').on('change', function() {
+            var zone = $(this).val();
+            updateTypeBienChoices(zone); 
+        });
+        
+        $('#id_type_bien').on('change', function() {
+            var zone = $('#id_zone').val();
+            var typeBien = $(this).val();
+            updateEtatChoices(zone, typeBien); 
+        });
+
+        $("#visitForm").submit(function(event) {
+            var email = $("#id_email").val();
+            var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(email)) {
+                alert("Veuillez saisir une adresse email valide.");
+                event.preventDefault();
+                return false;
+            }
+        
+            var telephone = $("#id_telephone").val();
+            var telephoneRegex = /^[0-9]+$/;
+            if (!telephoneRegex.test(telephone)) {
+                alert("Veuillez saisir un numéro de téléphone valide.");
+                event.preventDefault();
+                return false;
+            }
+        
+            return true;
+        });
+
+        setTimeout(function() {
+                $("#success-message").removeClass("show");
+        }, 3000);
+    });
+</script>
+</body>
+</html>
